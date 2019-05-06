@@ -1,0 +1,2308 @@
+Script started on Wed 01 May 2019 11:25:54 PM EDT
+zibin@zibin-VirtualBox: ~/Desktop/lab4$ java Try 0.10 0.11 0.12 0.13 0.14 0.15 0.1
+16 0.17 0.18 0.19 0.20 0.21 0.22 0.23 0.24 0.25 0.26 0.27 0.28 0.29 0.30 0.31 0.3
+32 0.33 0.34 0.35 0.36 0.37 0.38 0.39 0.40 0.41 0.42 0.43 0.44 0.45 0.46 0.47 0.4
+48 0.49 0.50 0.51 0.52 0.53 0.54 0.55 0.56 0.57 0.58 0.59 0.60 0.61 0.62 0.63 0.6
+64 0.65 0.66 0.67 0.68 0.69 0.70
+[INFO] Program begin : 2019-05-01 23:26:05
+--------------------
+[INFO] Testing Start partition = 0.10 : 2019-05-01 23:26:05
+[INFO] Currently running class PhaverModelTester with partition 1.0 : 2019-05-01 23:26:05
+[INFO] class PhaverModelBuilder launched, c = 0.1 . At : 2019-05-01 23:26:05
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:26:06
+[INFO] Currently running class PhaverModelTester with partition 0.1 : 2019-05-01 23:26:06
+[INFO] class PhaverModelBuilder launched, c = 0.1 . At : 2019-05-01 23:26:06
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:26:11
+[INFO] class PhaverModelTester - exec time : 2780ms : 2019-05-01 23:26:11
+[INFO] Currently running class SpaceExModelTester with partition 1.0 : 2019-05-01 23:26:11
+[INFO] class SpaceExModelBuilder launched, c = 0.1 . At : 2019-05-01 23:26:11
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:26:11
+[INFO] Currently running class SpaceExModelTester with partition 0.1 : 2019-05-01 23:26:11
+[INFO] class SpaceExModelBuilder launched, c = 0.1 . At : 2019-05-01 23:26:11
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:26:11
+[INFO] class SpaceExModelTester - exec time : 14ms : 2019-05-01 23:26:11
+--------------------
+[INFO] Testing Start partition = 0.11 : 2019-05-01 23:26:11
+[INFO] Currently running class PhaverModelTester with partition 1.0 : 2019-05-01 23:26:11
+[INFO] class PhaverModelBuilder launched, c = 0.11 . At : 2019-05-01 23:26:11
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:26:11
+[INFO] Currently running class PhaverModelTester with partition 0.1 : 2019-05-01 23:26:11
+[INFO] class PhaverModelBuilder launched, c = 0.11 . At : 2019-05-01 23:26:11
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:26:16
+[INFO] class PhaverModelTester - exec time : 2671ms : 2019-05-01 23:26:16
+[INFO] Currently running class SpaceExModelTester with partition 1.0 : 2019-05-01 23:26:16
+[INFO] class SpaceExModelBuilder launched, c = 0.11 . At : 2019-05-01 23:26:16
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:26:16
+[INFO] Currently running class SpaceExModelTester with partition 0.1 : 2019-05-01 23:26:16
+[INFO] class SpaceExModelBuilder launched, c = 0.11 . At : 2019-05-01 23:26:16
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:26:16
+[INFO] class SpaceExModelTester - exec time : 14ms : 2019-05-01 23:26:16
+--------------------
+[INFO] Testing Start partition = 0.12 : 2019-05-01 23:26:16
+[INFO] Currently running class PhaverModelTester with partition 1.0 : 2019-05-01 23:26:16
+[INFO] class PhaverModelBuilder launched, c = 0.12 . At : 2019-05-01 23:26:16
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:26:17
+[INFO] Currently running class PhaverModelTester with partition 0.1 : 2019-05-01 23:26:17
+[INFO] class PhaverModelBuilder launched, c = 0.12 . At : 2019-05-01 23:26:17
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:26:22
+[INFO] class PhaverModelTester - exec time : 2841ms : 2019-05-01 23:26:22
+[INFO] Currently running class SpaceExModelTester with partition 1.0 : 2019-05-01 23:26:22
+[INFO] class SpaceExModelBuilder launched, c = 0.12 . At : 2019-05-01 23:26:22
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:26:22
+[INFO] Currently running class SpaceExModelTester with partition 0.1 : 2019-05-01 23:26:22
+[INFO] class SpaceExModelBuilder launched, c = 0.12 . At : 2019-05-01 23:26:22
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:26:22
+[INFO] class SpaceExModelTester - exec time : 48ms : 2019-05-01 23:26:22
+--------------------
+[INFO] Testing Start partition = 0.13 : 2019-05-01 23:26:22
+[INFO] Currently running class PhaverModelTester with partition 1.0 : 2019-05-01 23:26:22
+[INFO] class PhaverModelBuilder launched, c = 0.13 . At : 2019-05-01 23:26:22
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:26:23
+[INFO] Currently running class PhaverModelTester with partition 0.1 : 2019-05-01 23:26:23
+[INFO] class PhaverModelBuilder launched, c = 0.13 . At : 2019-05-01 23:26:23
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:26:28
+[INFO] class PhaverModelTester - exec time : 2785ms : 2019-05-01 23:26:28
+[INFO] Currently running class SpaceExModelTester with partition 1.0 : 2019-05-01 23:26:28
+[INFO] class SpaceExModelBuilder launched, c = 0.13 . At : 2019-05-01 23:26:28
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:26:28
+[INFO] Currently running class SpaceExModelTester with partition 0.1 : 2019-05-01 23:26:28
+[INFO] class SpaceExModelBuilder launched, c = 0.13 . At : 2019-05-01 23:26:28
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:26:28
+[INFO] class SpaceExModelTester - exec time : 46ms : 2019-05-01 23:26:28
+--------------------
+[INFO] Testing Start partition = 0.14 : 2019-05-01 23:26:28
+[INFO] Currently running class PhaverModelTester with partition 1.0 : 2019-05-01 23:26:28
+[INFO] class PhaverModelBuilder launched, c = 0.14 . At : 2019-05-01 23:26:28
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:26:28
+[INFO] Currently running class PhaverModelTester with partition 0.1 : 2019-05-01 23:26:28
+[INFO] class PhaverModelBuilder launched, c = 0.14 . At : 2019-05-01 23:26:28
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:26:33
+[INFO] class PhaverModelTester - exec time : 2794ms : 2019-05-01 23:26:33
+[INFO] Currently running class SpaceExModelTester with partition 1.0 : 2019-05-01 23:26:33
+[INFO] class SpaceExModelBuilder launched, c = 0.14 . At : 2019-05-01 23:26:33
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:26:34
+[INFO] Currently running class SpaceExModelTester with partition 0.1 : 2019-05-01 23:26:34
+[INFO] class SpaceExModelBuilder launched, c = 0.14 . At : 2019-05-01 23:26:34
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:26:34
+[INFO] class SpaceExModelTester - exec time : 41ms : 2019-05-01 23:26:34
+--------------------
+[INFO] Testing Start partition = 0.15 : 2019-05-01 23:26:34
+[INFO] Currently running class PhaverModelTester with partition 1.0 : 2019-05-01 23:26:34
+[INFO] class PhaverModelBuilder launched, c = 0.15 . At : 2019-05-01 23:26:34
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:26:34
+[INFO] Currently running class PhaverModelTester with partition 0.1 : 2019-05-01 23:26:34
+[INFO] class PhaverModelBuilder launched, c = 0.15 . At : 2019-05-01 23:26:34
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:26:39
+[INFO] class PhaverModelTester - exec time : 2749ms : 2019-05-01 23:26:39
+[INFO] Currently running class SpaceExModelTester with partition 1.0 : 2019-05-01 23:26:39
+[INFO] class SpaceExModelBuilder launched, c = 0.15 . At : 2019-05-01 23:26:39
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:26:39
+[INFO] Currently running class SpaceExModelTester with partition 0.1 : 2019-05-01 23:26:39
+[INFO] class SpaceExModelBuilder launched, c = 0.15 . At : 2019-05-01 23:26:39
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:26:39
+[INFO] class SpaceExModelTester - exec time : 40ms : 2019-05-01 23:26:39
+--------------------
+[INFO] Testing Start partition = 0.16 : 2019-05-01 23:26:39
+[INFO] Currently running class PhaverModelTester with partition 1.0 : 2019-05-01 23:26:39
+[INFO] class PhaverModelBuilder launched, c = 0.16 . At : 2019-05-01 23:26:39
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:26:40
+[INFO] Currently running class PhaverModelTester with partition 0.1 : 2019-05-01 23:26:40
+[INFO] class PhaverModelBuilder launched, c = 0.16 . At : 2019-05-01 23:26:40
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:26:45
+[INFO] Currently running class PhaverModelTester with partition 0.55 : 2019-05-01 23:26:45
+[INFO] class PhaverModelBuilder launched, c = 0.16 . At : 2019-05-01 23:26:45
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:26:46
+[INFO] Going Up and Continue Test partition = 0.55 : 2019-05-01 23:26:46
+[INFO] Currently running class PhaverModelTester with partition 0.775 : 2019-05-01 23:26:46
+[INFO] class PhaverModelBuilder launched, c = 0.16 . At : 2019-05-01 23:26:46
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:26:46
+[INFO] Going Down and Continue Test partition = 0.775 : 2019-05-01 23:26:46
+[INFO] Currently running class PhaverModelTester with partition 0.6625 : 2019-05-01 23:26:46
+[INFO] class PhaverModelBuilder launched, c = 0.16 . At : 2019-05-01 23:26:46
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:26:47
+[INFO] Going Down and Continue Test partition = 0.6625 : 2019-05-01 23:26:47
+[INFO] Currently running class PhaverModelTester with partition 0.6062 : 2019-05-01 23:26:47
+[INFO] class PhaverModelBuilder launched, c = 0.16 . At : 2019-05-01 23:26:47
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:26:48
+[INFO] Going Up and Continue Test partition = 0.6062 : 2019-05-01 23:26:48
+[INFO] Currently running class PhaverModelTester with partition 0.6343 : 2019-05-01 23:26:48
+[INFO] class PhaverModelBuilder launched, c = 0.16 . At : 2019-05-01 23:26:48
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:26:48
+[INFO] Going Down and Continue Test partition = 0.6343 : 2019-05-01 23:26:48
+[INFO] Currently running class PhaverModelTester with partition 0.6202 : 2019-05-01 23:26:48
+[INFO] class PhaverModelBuilder launched, c = 0.16 . At : 2019-05-01 23:26:48
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:26:49
+[INFO] Going Up and Continue Test partition = 0.6202 : 2019-05-01 23:26:49
+[INFO] class PhaverModelTester - exec time : 856ms : 2019-05-01 23:26:49
+[INFO] Currently running class SpaceExModelTester with partition 1.0 : 2019-05-01 23:26:49
+[INFO] class SpaceExModelBuilder launched, c = 0.16 . At : 2019-05-01 23:26:49
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:26:49
+[INFO] Currently running class SpaceExModelTester with partition 0.1 : 2019-05-01 23:26:49
+[INFO] class SpaceExModelBuilder launched, c = 0.16 . At : 2019-05-01 23:26:49
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:26:49
+[INFO] class SpaceExModelTester - exec time : 63ms : 2019-05-01 23:26:49
+--------------------
+[INFO] Testing Start partition = 0.17 : 2019-05-01 23:26:49
+[INFO] Currently running class PhaverModelTester with partition 1.0 : 2019-05-01 23:26:49
+[INFO] class PhaverModelBuilder launched, c = 0.17 . At : 2019-05-01 23:26:49
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:26:50
+[INFO] Currently running class PhaverModelTester with partition 0.1 : 2019-05-01 23:26:50
+[INFO] class PhaverModelBuilder launched, c = 0.17 . At : 2019-05-01 23:26:50
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:26:55
+[INFO] Currently running class PhaverModelTester with partition 0.55 : 2019-05-01 23:26:55
+[INFO] class PhaverModelBuilder launched, c = 0.17 . At : 2019-05-01 23:26:55
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:26:56
+[INFO] Going Up and Continue Test partition = 0.55 : 2019-05-01 23:26:56
+[INFO] Currently running class PhaverModelTester with partition 0.775 : 2019-05-01 23:26:56
+[INFO] class PhaverModelBuilder launched, c = 0.17 . At : 2019-05-01 23:26:56
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:26:56
+[INFO] Going Down and Continue Test partition = 0.775 : 2019-05-01 23:26:56
+[INFO] Currently running class PhaverModelTester with partition 0.6625 : 2019-05-01 23:26:56
+[INFO] class PhaverModelBuilder launched, c = 0.17 . At : 2019-05-01 23:26:56
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:26:57
+[INFO] Going Down and Continue Test partition = 0.6625 : 2019-05-01 23:26:57
+[INFO] Currently running class PhaverModelTester with partition 0.6062 : 2019-05-01 23:26:57
+[INFO] class PhaverModelBuilder launched, c = 0.17 . At : 2019-05-01 23:26:57
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:26:58
+[INFO] Going Up and Continue Test partition = 0.6062 : 2019-05-01 23:26:58
+[INFO] Currently running class PhaverModelTester with partition 0.6343 : 2019-05-01 23:26:58
+[INFO] class PhaverModelBuilder launched, c = 0.17 . At : 2019-05-01 23:26:58
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:26:58
+[INFO] Going Down and Continue Test partition = 0.6343 : 2019-05-01 23:26:58
+[INFO] Currently running class PhaverModelTester with partition 0.6202 : 2019-05-01 23:26:58
+[INFO] class PhaverModelBuilder launched, c = 0.17 . At : 2019-05-01 23:26:58
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:26:59
+[INFO] Going Up and Continue Test partition = 0.6202 : 2019-05-01 23:26:59
+[INFO] class PhaverModelTester - exec time : 988ms : 2019-05-01 23:26:59
+[INFO] Currently running class SpaceExModelTester with partition 1.0 : 2019-05-01 23:26:59
+[INFO] class SpaceExModelBuilder launched, c = 0.17 . At : 2019-05-01 23:26:59
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:26:59
+[INFO] Currently running class SpaceExModelTester with partition 0.1 : 2019-05-01 23:26:59
+[INFO] class SpaceExModelBuilder launched, c = 0.17 . At : 2019-05-01 23:26:59
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:26:59
+[INFO] class SpaceExModelTester - exec time : 15ms : 2019-05-01 23:26:59
+--------------------
+[INFO] Testing Start partition = 0.18 : 2019-05-01 23:26:59
+[INFO] Currently running class PhaverModelTester with partition 1.0 : 2019-05-01 23:26:59
+[INFO] class PhaverModelBuilder launched, c = 0.18 . At : 2019-05-01 23:26:59
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:27:00
+[INFO] Currently running class PhaverModelTester with partition 0.1 : 2019-05-01 23:27:00
+[INFO] class PhaverModelBuilder launched, c = 0.18 . At : 2019-05-01 23:27:00
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:27:05
+[INFO] Currently running class PhaverModelTester with partition 0.55 : 2019-05-01 23:27:05
+[INFO] class PhaverModelBuilder launched, c = 0.18 . At : 2019-05-01 23:27:06
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:27:07
+[INFO] Going Up and Continue Test partition = 0.55 : 2019-05-01 23:27:07
+[INFO] Currently running class PhaverModelTester with partition 0.775 : 2019-05-01 23:27:07
+[INFO] class PhaverModelBuilder launched, c = 0.18 . At : 2019-05-01 23:27:07
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:27:07
+[INFO] Going Down and Continue Test partition = 0.775 : 2019-05-01 23:27:07
+[INFO] Currently running class PhaverModelTester with partition 0.6625 : 2019-05-01 23:27:07
+[INFO] class PhaverModelBuilder launched, c = 0.18 . At : 2019-05-01 23:27:07
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:27:07
+[INFO] Going Down and Continue Test partition = 0.6625 : 2019-05-01 23:27:07
+[INFO] Currently running class PhaverModelTester with partition 0.6062 : 2019-05-01 23:27:07
+[INFO] class PhaverModelBuilder launched, c = 0.18 . At : 2019-05-01 23:27:07
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:27:08
+[INFO] Going Up and Continue Test partition = 0.6062 : 2019-05-01 23:27:08
+[INFO] Currently running class PhaverModelTester with partition 0.6343 : 2019-05-01 23:27:08
+[INFO] class PhaverModelBuilder launched, c = 0.18 . At : 2019-05-01 23:27:08
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:27:09
+[INFO] Going Down and Continue Test partition = 0.6343 : 2019-05-01 23:27:09
+[INFO] Currently running class PhaverModelTester with partition 0.6202 : 2019-05-01 23:27:09
+[INFO] class PhaverModelBuilder launched, c = 0.18 . At : 2019-05-01 23:27:09
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:27:10
+[INFO] Going Up and Continue Test partition = 0.6202 : 2019-05-01 23:27:10
+[INFO] class PhaverModelTester - exec time : 972ms : 2019-05-01 23:27:10
+[INFO] Currently running class SpaceExModelTester with partition 1.0 : 2019-05-01 23:27:10
+[INFO] class SpaceExModelBuilder launched, c = 0.18 . At : 2019-05-01 23:27:10
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:27:10
+[INFO] Currently running class SpaceExModelTester with partition 0.1 : 2019-05-01 23:27:10
+[INFO] class SpaceExModelBuilder launched, c = 0.18 . At : 2019-05-01 23:27:10
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:27:10
+[INFO] class SpaceExModelTester - exec time : 16ms : 2019-05-01 23:27:10
+--------------------
+[INFO] Testing Start partition = 0.19 : 2019-05-01 23:27:10
+[INFO] Currently running class PhaverModelTester with partition 1.0 : 2019-05-01 23:27:10
+[INFO] class PhaverModelBuilder launched, c = 0.19 . At : 2019-05-01 23:27:10
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:27:10
+[INFO] Currently running class PhaverModelTester with partition 0.1 : 2019-05-01 23:27:10
+[INFO] class PhaverModelBuilder launched, c = 0.19 . At : 2019-05-01 23:27:10
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:27:16
+[INFO] Currently running class PhaverModelTester with partition 0.55 : 2019-05-01 23:27:16
+[INFO] class PhaverModelBuilder launched, c = 0.19 . At : 2019-05-01 23:27:16
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:27:17
+[INFO] Going Up and Continue Test partition = 0.55 : 2019-05-01 23:27:17
+[INFO] Currently running class PhaverModelTester with partition 0.775 : 2019-05-01 23:27:17
+[INFO] class PhaverModelBuilder launched, c = 0.19 . At : 2019-05-01 23:27:17
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:27:17
+[INFO] Going Down and Continue Test partition = 0.775 : 2019-05-01 23:27:17
+[INFO] Currently running class PhaverModelTester with partition 0.6625 : 2019-05-01 23:27:17
+[INFO] class PhaverModelBuilder launched, c = 0.19 . At : 2019-05-01 23:27:17
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:27:18
+[INFO] Going Down and Continue Test partition = 0.6625 : 2019-05-01 23:27:18
+[INFO] Currently running class PhaverModelTester with partition 0.6062 : 2019-05-01 23:27:18
+[INFO] class PhaverModelBuilder launched, c = 0.19 . At : 2019-05-01 23:27:18
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:27:19
+[INFO] Going Up and Continue Test partition = 0.6062 : 2019-05-01 23:27:19
+[INFO] Currently running class PhaverModelTester with partition 0.6343 : 2019-05-01 23:27:19
+[INFO] class PhaverModelBuilder launched, c = 0.19 . At : 2019-05-01 23:27:19
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:27:19
+[INFO] Going Down and Continue Test partition = 0.6343 : 2019-05-01 23:27:19
+[INFO] Currently running class PhaverModelTester with partition 0.6202 : 2019-05-01 23:27:19
+[INFO] class PhaverModelBuilder launched, c = 0.19 . At : 2019-05-01 23:27:19
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:27:20
+[INFO] Going Up and Continue Test partition = 0.6202 : 2019-05-01 23:27:20
+[INFO] class PhaverModelTester - exec time : 977ms : 2019-05-01 23:27:20
+[INFO] Currently running class SpaceExModelTester with partition 1.0 : 2019-05-01 23:27:20
+[INFO] class SpaceExModelBuilder launched, c = 0.19 . At : 2019-05-01 23:27:20
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:27:20
+[INFO] Currently running class SpaceExModelTester with partition 0.1 : 2019-05-01 23:27:20
+[INFO] class SpaceExModelBuilder launched, c = 0.19 . At : 2019-05-01 23:27:20
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:27:20
+[INFO] class SpaceExModelTester - exec time : 21ms : 2019-05-01 23:27:20
+--------------------
+[INFO] Testing Start partition = 0.20 : 2019-05-01 23:27:20
+[INFO] Currently running class PhaverModelTester with partition 1.0 : 2019-05-01 23:27:20
+[INFO] class PhaverModelBuilder launched, c = 0.2 . At : 2019-05-01 23:27:20
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:27:21
+[INFO] Currently running class PhaverModelTester with partition 0.1 : 2019-05-01 23:27:21
+[INFO] class PhaverModelBuilder launched, c = 0.2 . At : 2019-05-01 23:27:21
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:27:27
+[INFO] Currently running class PhaverModelTester with partition 0.55 : 2019-05-01 23:27:27
+[INFO] class PhaverModelBuilder launched, c = 0.2 . At : 2019-05-01 23:27:27
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:27:28
+[INFO] Going Up and Continue Test partition = 0.55 : 2019-05-01 23:27:28
+[INFO] Currently running class PhaverModelTester with partition 0.775 : 2019-05-01 23:27:28
+[INFO] class PhaverModelBuilder launched, c = 0.2 . At : 2019-05-01 23:27:28
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:27:28
+[INFO] Going Down and Continue Test partition = 0.775 : 2019-05-01 23:27:28
+[INFO] Currently running class PhaverModelTester with partition 0.6625 : 2019-05-01 23:27:28
+[INFO] class PhaverModelBuilder launched, c = 0.2 . At : 2019-05-01 23:27:28
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:27:29
+[INFO] Going Down and Continue Test partition = 0.6625 : 2019-05-01 23:27:29
+[INFO] Currently running class PhaverModelTester with partition 0.6062 : 2019-05-01 23:27:29
+[INFO] class PhaverModelBuilder launched, c = 0.2 . At : 2019-05-01 23:27:29
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:27:30
+[INFO] Going Up and Continue Test partition = 0.6062 : 2019-05-01 23:27:30
+[INFO] Currently running class PhaverModelTester with partition 0.6343 : 2019-05-01 23:27:30
+[INFO] class PhaverModelBuilder launched, c = 0.2 . At : 2019-05-01 23:27:30
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:27:30
+[INFO] Going Down and Continue Test partition = 0.6343 : 2019-05-01 23:27:30
+[INFO] Currently running class PhaverModelTester with partition 0.6202 : 2019-05-01 23:27:30
+[INFO] class PhaverModelBuilder launched, c = 0.2 . At : 2019-05-01 23:27:30
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:27:31
+[INFO] Going Up and Continue Test partition = 0.6202 : 2019-05-01 23:27:31
+[INFO] class PhaverModelTester - exec time : 981ms : 2019-05-01 23:27:31
+[INFO] Currently running class SpaceExModelTester with partition 1.0 : 2019-05-01 23:27:31
+[INFO] class SpaceExModelBuilder launched, c = 0.2 . At : 2019-05-01 23:27:31
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:27:31
+[INFO] Currently running class SpaceExModelTester with partition 0.1 : 2019-05-01 23:27:31
+[INFO] class SpaceExModelBuilder launched, c = 0.2 . At : 2019-05-01 23:27:31
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:27:31
+[INFO] class SpaceExModelTester - exec time : 14ms : 2019-05-01 23:27:31
+--------------------
+[INFO] Testing Start partition = 0.21 : 2019-05-01 23:27:31
+[INFO] Currently running class PhaverModelTester with partition 1.0 : 2019-05-01 23:27:31
+[INFO] class PhaverModelBuilder launched, c = 0.21 . At : 2019-05-01 23:27:31
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:27:31
+[INFO] Currently running class PhaverModelTester with partition 0.1 : 2019-05-01 23:27:31
+[INFO] class PhaverModelBuilder launched, c = 0.21 . At : 2019-05-01 23:27:31
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:27:37
+[INFO] Currently running class PhaverModelTester with partition 0.55 : 2019-05-01 23:27:37
+[INFO] class PhaverModelBuilder launched, c = 0.21 . At : 2019-05-01 23:27:37
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:27:38
+[INFO] Going Up and Continue Test partition = 0.55 : 2019-05-01 23:27:38
+[INFO] Currently running class PhaverModelTester with partition 0.775 : 2019-05-01 23:27:38
+[INFO] class PhaverModelBuilder launched, c = 0.21 . At : 2019-05-01 23:27:38
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:27:39
+[INFO] Going Down and Continue Test partition = 0.775 : 2019-05-01 23:27:39
+[INFO] Currently running class PhaverModelTester with partition 0.6625 : 2019-05-01 23:27:39
+[INFO] class PhaverModelBuilder launched, c = 0.21 . At : 2019-05-01 23:27:39
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:27:39
+[INFO] Going Down and Continue Test partition = 0.6625 : 2019-05-01 23:27:39
+[INFO] Currently running class PhaverModelTester with partition 0.6062 : 2019-05-01 23:27:39
+[INFO] class PhaverModelBuilder launched, c = 0.21 . At : 2019-05-01 23:27:39
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:27:40
+[INFO] Going Up and Continue Test partition = 0.6062 : 2019-05-01 23:27:40
+[INFO] Currently running class PhaverModelTester with partition 0.6343 : 2019-05-01 23:27:40
+[INFO] class PhaverModelBuilder launched, c = 0.21 . At : 2019-05-01 23:27:40
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:27:41
+[INFO] Going Down and Continue Test partition = 0.6343 : 2019-05-01 23:27:41
+[INFO] Currently running class PhaverModelTester with partition 0.6202 : 2019-05-01 23:27:41
+[INFO] class PhaverModelBuilder launched, c = 0.21 . At : 2019-05-01 23:27:41
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:27:42
+[INFO] Going Up and Continue Test partition = 0.6202 : 2019-05-01 23:27:42
+[INFO] class PhaverModelTester - exec time : 1015ms : 2019-05-01 23:27:42
+[INFO] Currently running class SpaceExModelTester with partition 1.0 : 2019-05-01 23:27:42
+[INFO] class SpaceExModelBuilder launched, c = 0.21 . At : 2019-05-01 23:27:42
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:27:42
+[INFO] Currently running class SpaceExModelTester with partition 0.1 : 2019-05-01 23:27:42
+[INFO] class SpaceExModelBuilder launched, c = 0.21 . At : 2019-05-01 23:27:42
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:27:42
+[INFO] class SpaceExModelTester - exec time : 17ms : 2019-05-01 23:27:42
+--------------------
+[INFO] Testing Start partition = 0.22 : 2019-05-01 23:27:42
+[INFO] Currently running class PhaverModelTester with partition 1.0 : 2019-05-01 23:27:42
+[INFO] class PhaverModelBuilder launched, c = 0.22 . At : 2019-05-01 23:27:42
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:27:42
+[INFO] Currently running class PhaverModelTester with partition 0.1 : 2019-05-01 23:27:42
+[INFO] class PhaverModelBuilder launched, c = 0.22 . At : 2019-05-01 23:27:42
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:27:48
+[INFO] Currently running class PhaverModelTester with partition 0.55 : 2019-05-01 23:27:48
+[INFO] class PhaverModelBuilder launched, c = 0.22 . At : 2019-05-01 23:27:48
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:27:49
+[INFO] Going Up and Continue Test partition = 0.55 : 2019-05-01 23:27:49
+[INFO] Currently running class PhaverModelTester with partition 0.775 : 2019-05-01 23:27:49
+[INFO] class PhaverModelBuilder launched, c = 0.22 . At : 2019-05-01 23:27:49
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:27:49
+[INFO] Going Down and Continue Test partition = 0.775 : 2019-05-01 23:27:49
+[INFO] Currently running class PhaverModelTester with partition 0.6625 : 2019-05-01 23:27:49
+[INFO] class PhaverModelBuilder launched, c = 0.22 . At : 2019-05-01 23:27:49
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:27:50
+[INFO] Going Down and Continue Test partition = 0.6625 : 2019-05-01 23:27:50
+[INFO] Currently running class PhaverModelTester with partition 0.6062 : 2019-05-01 23:27:50
+[INFO] class PhaverModelBuilder launched, c = 0.22 . At : 2019-05-01 23:27:50
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:27:51
+[INFO] Going Up and Continue Test partition = 0.6062 : 2019-05-01 23:27:51
+[INFO] Currently running class PhaverModelTester with partition 0.6343 : 2019-05-01 23:27:51
+[INFO] class PhaverModelBuilder launched, c = 0.22 . At : 2019-05-01 23:27:51
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:27:51
+[INFO] Going Down and Continue Test partition = 0.6343 : 2019-05-01 23:27:51
+[INFO] Currently running class PhaverModelTester with partition 0.6202 : 2019-05-01 23:27:51
+[INFO] class PhaverModelBuilder launched, c = 0.22 . At : 2019-05-01 23:27:51
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:27:52
+[INFO] Going Up and Continue Test partition = 0.6202 : 2019-05-01 23:27:52
+[INFO] class PhaverModelTester - exec time : 907ms : 2019-05-01 23:27:52
+[INFO] Currently running class SpaceExModelTester with partition 1.0 : 2019-05-01 23:27:52
+[INFO] class SpaceExModelBuilder launched, c = 0.22 . At : 2019-05-01 23:27:52
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:27:52
+[INFO] Currently running class SpaceExModelTester with partition 0.1 : 2019-05-01 23:27:52
+[INFO] class SpaceExModelBuilder launched, c = 0.22 . At : 2019-05-01 23:27:52
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:27:52
+[INFO] class SpaceExModelTester - exec time : 17ms : 2019-05-01 23:27:52
+--------------------
+[INFO] Testing Start partition = 0.23 : 2019-05-01 23:27:52
+[INFO] Currently running class PhaverModelTester with partition 1.0 : 2019-05-01 23:27:52
+[INFO] class PhaverModelBuilder launched, c = 0.23 . At : 2019-05-01 23:27:52
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:27:53
+[INFO] Currently running class PhaverModelTester with partition 0.1 : 2019-05-01 23:27:53
+[INFO] class PhaverModelBuilder launched, c = 0.23 . At : 2019-05-01 23:27:53
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:27:59
+[INFO] Currently running class PhaverModelTester with partition 0.55 : 2019-05-01 23:27:59
+[INFO] class PhaverModelBuilder launched, c = 0.23 . At : 2019-05-01 23:27:59
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:28:00
+[INFO] Going Up and Continue Test partition = 0.55 : 2019-05-01 23:28:00
+[INFO] Currently running class PhaverModelTester with partition 0.775 : 2019-05-01 23:28:00
+[INFO] class PhaverModelBuilder launched, c = 0.23 . At : 2019-05-01 23:28:00
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:28:00
+[INFO] Going Down and Continue Test partition = 0.775 : 2019-05-01 23:28:00
+[INFO] Currently running class PhaverModelTester with partition 0.6625 : 2019-05-01 23:28:00
+[INFO] class PhaverModelBuilder launched, c = 0.23 . At : 2019-05-01 23:28:00
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:28:01
+[INFO] Going Down and Continue Test partition = 0.6625 : 2019-05-01 23:28:01
+[INFO] Currently running class PhaverModelTester with partition 0.6062 : 2019-05-01 23:28:01
+[INFO] class PhaverModelBuilder launched, c = 0.23 . At : 2019-05-01 23:28:01
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:28:02
+[INFO] Going Up and Continue Test partition = 0.6062 : 2019-05-01 23:28:02
+[INFO] Currently running class PhaverModelTester with partition 0.6343 : 2019-05-01 23:28:02
+[INFO] class PhaverModelBuilder launched, c = 0.23 . At : 2019-05-01 23:28:02
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:28:02
+[INFO] Going Down and Continue Test partition = 0.6343 : 2019-05-01 23:28:02
+[INFO] Currently running class PhaverModelTester with partition 0.6202 : 2019-05-01 23:28:02
+[INFO] class PhaverModelBuilder launched, c = 0.23 . At : 2019-05-01 23:28:02
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:28:03
+[INFO] Going Up and Continue Test partition = 0.6202 : 2019-05-01 23:28:03
+[INFO] class PhaverModelTester - exec time : 975ms : 2019-05-01 23:28:03
+[INFO] Currently running class SpaceExModelTester with partition 1.0 : 2019-05-01 23:28:03
+[INFO] class SpaceExModelBuilder launched, c = 0.23 . At : 2019-05-01 23:28:03
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:28:03
+[INFO] Currently running class SpaceExModelTester with partition 0.1 : 2019-05-01 23:28:03
+[INFO] class SpaceExModelBuilder launched, c = 0.23 . At : 2019-05-01 23:28:03
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:28:03
+[INFO] class SpaceExModelTester - exec time : 15ms : 2019-05-01 23:28:03
+--------------------
+[INFO] Testing Start partition = 0.24 : 2019-05-01 23:28:03
+[INFO] Currently running class PhaverModelTester with partition 1.0 : 2019-05-01 23:28:03
+[INFO] class PhaverModelBuilder launched, c = 0.24 . At : 2019-05-01 23:28:03
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:28:04
+[INFO] Currently running class PhaverModelTester with partition 0.1 : 2019-05-01 23:28:04
+[INFO] class PhaverModelBuilder launched, c = 0.24 . At : 2019-05-01 23:28:04
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:28:10
+[INFO] Currently running class PhaverModelTester with partition 0.55 : 2019-05-01 23:28:10
+[INFO] class PhaverModelBuilder launched, c = 0.24 . At : 2019-05-01 23:28:10
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:28:11
+[INFO] Going Up and Continue Test partition = 0.55 : 2019-05-01 23:28:11
+[INFO] Currently running class PhaverModelTester with partition 0.775 : 2019-05-01 23:28:11
+[INFO] class PhaverModelBuilder launched, c = 0.24 . At : 2019-05-01 23:28:11
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:28:12
+[INFO] Going Down and Continue Test partition = 0.775 : 2019-05-01 23:28:12
+[INFO] Currently running class PhaverModelTester with partition 0.6625 : 2019-05-01 23:28:12
+[INFO] class PhaverModelBuilder launched, c = 0.24 . At : 2019-05-01 23:28:12
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:28:12
+[INFO] Going Down and Continue Test partition = 0.6625 : 2019-05-01 23:28:12
+[INFO] Currently running class PhaverModelTester with partition 0.6062 : 2019-05-01 23:28:12
+[INFO] class PhaverModelBuilder launched, c = 0.24 . At : 2019-05-01 23:28:12
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:28:13
+[INFO] Going Up and Continue Test partition = 0.6062 : 2019-05-01 23:28:13
+[INFO] Currently running class PhaverModelTester with partition 0.6343 : 2019-05-01 23:28:13
+[INFO] class PhaverModelBuilder launched, c = 0.24 . At : 2019-05-01 23:28:13
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:28:14
+[INFO] Going Down and Continue Test partition = 0.6343 : 2019-05-01 23:28:14
+[INFO] Currently running class PhaverModelTester with partition 0.6202 : 2019-05-01 23:28:14
+[INFO] class PhaverModelBuilder launched, c = 0.24 . At : 2019-05-01 23:28:14
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:28:15
+[INFO] Going Up and Continue Test partition = 0.6202 : 2019-05-01 23:28:15
+[INFO] class PhaverModelTester - exec time : 1012ms : 2019-05-01 23:28:15
+[INFO] Currently running class SpaceExModelTester with partition 1.0 : 2019-05-01 23:28:15
+[INFO] class SpaceExModelBuilder launched, c = 0.24 . At : 2019-05-01 23:28:15
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:28:15
+[INFO] Currently running class SpaceExModelTester with partition 0.1 : 2019-05-01 23:28:15
+[INFO] class SpaceExModelBuilder launched, c = 0.24 . At : 2019-05-01 23:28:15
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:28:15
+[INFO] class SpaceExModelTester - exec time : 16ms : 2019-05-01 23:28:15
+--------------------
+[INFO] Testing Start partition = 0.25 : 2019-05-01 23:28:15
+[INFO] Currently running class PhaverModelTester with partition 1.0 : 2019-05-01 23:28:15
+[INFO] class PhaverModelBuilder launched, c = 0.25 . At : 2019-05-01 23:28:15
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:28:15
+[INFO] Currently running class PhaverModelTester with partition 0.1 : 2019-05-01 23:28:15
+[INFO] class PhaverModelBuilder launched, c = 0.25 . At : 2019-05-01 23:28:15
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:28:21
+[INFO] Currently running class PhaverModelTester with partition 0.55 : 2019-05-01 23:28:21
+[INFO] class PhaverModelBuilder launched, c = 0.25 . At : 2019-05-01 23:28:21
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:28:22
+[INFO] Going Up and Continue Test partition = 0.55 : 2019-05-01 23:28:22
+[INFO] Currently running class PhaverModelTester with partition 0.775 : 2019-05-01 23:28:22
+[INFO] class PhaverModelBuilder launched, c = 0.25 . At : 2019-05-01 23:28:22
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:28:23
+[INFO] Going Down and Continue Test partition = 0.775 : 2019-05-01 23:28:23
+[INFO] Currently running class PhaverModelTester with partition 0.6625 : 2019-05-01 23:28:23
+[INFO] class PhaverModelBuilder launched, c = 0.25 . At : 2019-05-01 23:28:23
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:28:23
+[INFO] Going Down and Continue Test partition = 0.6625 : 2019-05-01 23:28:23
+[INFO] Currently running class PhaverModelTester with partition 0.6062 : 2019-05-01 23:28:23
+[INFO] class PhaverModelBuilder launched, c = 0.25 . At : 2019-05-01 23:28:23
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:28:24
+[INFO] Going Up and Continue Test partition = 0.6062 : 2019-05-01 23:28:24
+[INFO] Currently running class PhaverModelTester with partition 0.6343 : 2019-05-01 23:28:24
+[INFO] class PhaverModelBuilder launched, c = 0.25 . At : 2019-05-01 23:28:24
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:28:25
+[INFO] Going Down and Continue Test partition = 0.6343 : 2019-05-01 23:28:25
+[INFO] Currently running class PhaverModelTester with partition 0.6202 : 2019-05-01 23:28:25
+[INFO] class PhaverModelBuilder launched, c = 0.25 . At : 2019-05-01 23:28:25
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:28:26
+[INFO] Going Up and Continue Test partition = 0.6202 : 2019-05-01 23:28:26
+[INFO] class PhaverModelTester - exec time : 1003ms : 2019-05-01 23:28:26
+[INFO] Currently running class SpaceExModelTester with partition 1.0 : 2019-05-01 23:28:26
+[INFO] class SpaceExModelBuilder launched, c = 0.25 . At : 2019-05-01 23:28:26
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:28:26
+[INFO] Currently running class SpaceExModelTester with partition 0.1 : 2019-05-01 23:28:26
+[INFO] class SpaceExModelBuilder launched, c = 0.25 . At : 2019-05-01 23:28:26
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:28:26
+[INFO] class SpaceExModelTester - exec time : 17ms : 2019-05-01 23:28:26
+--------------------
+[INFO] Testing Start partition = 0.26 : 2019-05-01 23:28:26
+[INFO] Currently running class PhaverModelTester with partition 1.0 : 2019-05-01 23:28:26
+[INFO] class PhaverModelBuilder launched, c = 0.26 . At : 2019-05-01 23:28:26
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:28:26
+[INFO] Currently running class PhaverModelTester with partition 0.1 : 2019-05-01 23:28:26
+[INFO] class PhaverModelBuilder launched, c = 0.26 . At : 2019-05-01 23:28:26
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:28:33
+[INFO] Currently running class PhaverModelTester with partition 0.55 : 2019-05-01 23:28:33
+[INFO] class PhaverModelBuilder launched, c = 0.26 . At : 2019-05-01 23:28:33
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:28:34
+[INFO] Going Up and Continue Test partition = 0.55 : 2019-05-01 23:28:34
+[INFO] Currently running class PhaverModelTester with partition 0.775 : 2019-05-01 23:28:34
+[INFO] class PhaverModelBuilder launched, c = 0.26 . At : 2019-05-01 23:28:34
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:28:35
+[INFO] Going Down and Continue Test partition = 0.775 : 2019-05-01 23:28:35
+[INFO] Currently running class PhaverModelTester with partition 0.6625 : 2019-05-01 23:28:35
+[INFO] class PhaverModelBuilder launched, c = 0.26 . At : 2019-05-01 23:28:35
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:28:35
+[INFO] Going Down and Continue Test partition = 0.6625 : 2019-05-01 23:28:35
+[INFO] Currently running class PhaverModelTester with partition 0.6062 : 2019-05-01 23:28:35
+[INFO] class PhaverModelBuilder launched, c = 0.26 . At : 2019-05-01 23:28:35
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:28:36
+[INFO] Going Up and Continue Test partition = 0.6062 : 2019-05-01 23:28:36
+[INFO] Currently running class PhaverModelTester with partition 0.6343 : 2019-05-01 23:28:36
+[INFO] class PhaverModelBuilder launched, c = 0.26 . At : 2019-05-01 23:28:36
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:28:37
+[INFO] Going Down and Continue Test partition = 0.6343 : 2019-05-01 23:28:37
+[INFO] Currently running class PhaverModelTester with partition 0.6202 : 2019-05-01 23:28:37
+[INFO] class PhaverModelBuilder launched, c = 0.26 . At : 2019-05-01 23:28:37
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:28:38
+[INFO] Going Up and Continue Test partition = 0.6202 : 2019-05-01 23:28:38
+[INFO] class PhaverModelTester - exec time : 1009ms : 2019-05-01 23:28:38
+[INFO] Currently running class SpaceExModelTester with partition 1.0 : 2019-05-01 23:28:38
+[INFO] class SpaceExModelBuilder launched, c = 0.26 . At : 2019-05-01 23:28:38
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:28:38
+[INFO] Currently running class SpaceExModelTester with partition 0.1 : 2019-05-01 23:28:38
+[INFO] class SpaceExModelBuilder launched, c = 0.26 . At : 2019-05-01 23:28:38
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:28:38
+[INFO] class SpaceExModelTester - exec time : 23ms : 2019-05-01 23:28:38
+--------------------
+[INFO] Testing Start partition = 0.27 : 2019-05-01 23:28:38
+[INFO] Currently running class PhaverModelTester with partition 1.0 : 2019-05-01 23:28:38
+[INFO] class PhaverModelBuilder launched, c = 0.27 . At : 2019-05-01 23:28:38
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:28:38
+[INFO] Currently running class PhaverModelTester with partition 0.1 : 2019-05-01 23:28:38
+[INFO] class PhaverModelBuilder launched, c = 0.27 . At : 2019-05-01 23:28:38
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:28:45
+[INFO] Currently running class PhaverModelTester with partition 0.55 : 2019-05-01 23:28:45
+[INFO] class PhaverModelBuilder launched, c = 0.27 . At : 2019-05-01 23:28:45
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:28:46
+[INFO] Going Up and Continue Test partition = 0.55 : 2019-05-01 23:28:46
+[INFO] Currently running class PhaverModelTester with partition 0.775 : 2019-05-01 23:28:46
+[INFO] class PhaverModelBuilder launched, c = 0.27 . At : 2019-05-01 23:28:46
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:28:47
+[INFO] Going Down and Continue Test partition = 0.775 : 2019-05-01 23:28:47
+[INFO] Currently running class PhaverModelTester with partition 0.6625 : 2019-05-01 23:28:47
+[INFO] class PhaverModelBuilder launched, c = 0.27 . At : 2019-05-01 23:28:47
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:28:47
+[INFO] Going Down and Continue Test partition = 0.6625 : 2019-05-01 23:28:47
+[INFO] Currently running class PhaverModelTester with partition 0.6062 : 2019-05-01 23:28:47
+[INFO] class PhaverModelBuilder launched, c = 0.27 . At : 2019-05-01 23:28:47
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:28:48
+[INFO] Going Up and Continue Test partition = 0.6062 : 2019-05-01 23:28:48
+[INFO] Currently running class PhaverModelTester with partition 0.6343 : 2019-05-01 23:28:48
+[INFO] class PhaverModelBuilder launched, c = 0.27 . At : 2019-05-01 23:28:48
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:28:49
+[INFO] Going Down and Continue Test partition = 0.6343 : 2019-05-01 23:28:49
+[INFO] Currently running class PhaverModelTester with partition 0.6202 : 2019-05-01 23:28:49
+[INFO] class PhaverModelBuilder launched, c = 0.27 . At : 2019-05-01 23:28:49
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:28:50
+[INFO] Going Up and Continue Test partition = 0.6202 : 2019-05-01 23:28:50
+[INFO] class PhaverModelTester - exec time : 993ms : 2019-05-01 23:28:50
+[INFO] Currently running class SpaceExModelTester with partition 1.0 : 2019-05-01 23:28:50
+[INFO] class SpaceExModelBuilder launched, c = 0.27 . At : 2019-05-01 23:28:50
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:28:50
+[INFO] Currently running class SpaceExModelTester with partition 0.1 : 2019-05-01 23:28:50
+[INFO] class SpaceExModelBuilder launched, c = 0.27 . At : 2019-05-01 23:28:50
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:28:50
+[INFO] class SpaceExModelTester - exec time : 12ms : 2019-05-01 23:28:50
+--------------------
+[INFO] Testing Start partition = 0.28 : 2019-05-01 23:28:50
+[INFO] Currently running class PhaverModelTester with partition 1.0 : 2019-05-01 23:28:50
+[INFO] class PhaverModelBuilder launched, c = 0.28 . At : 2019-05-01 23:28:50
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:28:50
+[INFO] Currently running class PhaverModelTester with partition 0.1 : 2019-05-01 23:28:50
+[INFO] class PhaverModelBuilder launched, c = 0.28 . At : 2019-05-01 23:28:50
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:28:57
+[INFO] Currently running class PhaverModelTester with partition 0.55 : 2019-05-01 23:28:57
+[INFO] class PhaverModelBuilder launched, c = 0.28 . At : 2019-05-01 23:28:57
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:28:58
+[INFO] Going Up and Continue Test partition = 0.55 : 2019-05-01 23:28:58
+[INFO] Currently running class PhaverModelTester with partition 0.775 : 2019-05-01 23:28:58
+[INFO] class PhaverModelBuilder launched, c = 0.28 . At : 2019-05-01 23:28:58
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:28:59
+[INFO] Going Down and Continue Test partition = 0.775 : 2019-05-01 23:28:59
+[INFO] Currently running class PhaverModelTester with partition 0.6625 : 2019-05-01 23:28:59
+[INFO] class PhaverModelBuilder launched, c = 0.28 . At : 2019-05-01 23:28:59
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:28:59
+[INFO] Going Down and Continue Test partition = 0.6625 : 2019-05-01 23:28:59
+[INFO] Currently running class PhaverModelTester with partition 0.6062 : 2019-05-01 23:28:59
+[INFO] class PhaverModelBuilder launched, c = 0.28 . At : 2019-05-01 23:28:59
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:29:00
+[INFO] Going Up and Continue Test partition = 0.6062 : 2019-05-01 23:29:00
+[INFO] Currently running class PhaverModelTester with partition 0.6343 : 2019-05-01 23:29:00
+[INFO] class PhaverModelBuilder launched, c = 0.28 . At : 2019-05-01 23:29:00
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:29:01
+[INFO] Going Down and Continue Test partition = 0.6343 : 2019-05-01 23:29:01
+[INFO] Currently running class PhaverModelTester with partition 0.6202 : 2019-05-01 23:29:01
+[INFO] class PhaverModelBuilder launched, c = 0.28 . At : 2019-05-01 23:29:01
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:29:02
+[INFO] Going Up and Continue Test partition = 0.6202 : 2019-05-01 23:29:02
+[INFO] class PhaverModelTester - exec time : 1028ms : 2019-05-01 23:29:02
+[INFO] Currently running class SpaceExModelTester with partition 1.0 : 2019-05-01 23:29:02
+[INFO] class SpaceExModelBuilder launched, c = 0.28 . At : 2019-05-01 23:29:02
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:29:02
+[INFO] Currently running class SpaceExModelTester with partition 0.1 : 2019-05-01 23:29:02
+[INFO] class SpaceExModelBuilder launched, c = 0.28 . At : 2019-05-01 23:29:02
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:29:02
+[INFO] class SpaceExModelTester - exec time : 17ms : 2019-05-01 23:29:02
+--------------------
+[INFO] Testing Start partition = 0.29 : 2019-05-01 23:29:02
+[INFO] Currently running class PhaverModelTester with partition 1.0 : 2019-05-01 23:29:02
+[INFO] class PhaverModelBuilder launched, c = 0.29 . At : 2019-05-01 23:29:02
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:29:02
+[INFO] Currently running class PhaverModelTester with partition 0.1 : 2019-05-01 23:29:02
+[INFO] class PhaverModelBuilder launched, c = 0.29 . At : 2019-05-01 23:29:02
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:29:09
+[INFO] Currently running class PhaverModelTester with partition 0.55 : 2019-05-01 23:29:09
+[INFO] class PhaverModelBuilder launched, c = 0.29 . At : 2019-05-01 23:29:09
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:29:10
+[INFO] Going Up and Continue Test partition = 0.55 : 2019-05-01 23:29:10
+[INFO] Currently running class PhaverModelTester with partition 0.775 : 2019-05-01 23:29:10
+[INFO] class PhaverModelBuilder launched, c = 0.29 . At : 2019-05-01 23:29:10
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:29:11
+[INFO] Going Down and Continue Test partition = 0.775 : 2019-05-01 23:29:11
+[INFO] Currently running class PhaverModelTester with partition 0.6625 : 2019-05-01 23:29:11
+[INFO] class PhaverModelBuilder launched, c = 0.29 . At : 2019-05-01 23:29:11
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:29:11
+[INFO] Going Down and Continue Test partition = 0.6625 : 2019-05-01 23:29:11
+[INFO] Currently running class PhaverModelTester with partition 0.6062 : 2019-05-01 23:29:11
+[INFO] class PhaverModelBuilder launched, c = 0.29 . At : 2019-05-01 23:29:11
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:29:12
+[INFO] Going Up and Continue Test partition = 0.6062 : 2019-05-01 23:29:12
+[INFO] Currently running class PhaverModelTester with partition 0.6343 : 2019-05-01 23:29:12
+[INFO] class PhaverModelBuilder launched, c = 0.29 . At : 2019-05-01 23:29:12
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:29:13
+[INFO] Going Down and Continue Test partition = 0.6343 : 2019-05-01 23:29:13
+[INFO] Currently running class PhaverModelTester with partition 0.6202 : 2019-05-01 23:29:13
+[INFO] class PhaverModelBuilder launched, c = 0.29 . At : 2019-05-01 23:29:13
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:29:14
+[INFO] Going Up and Continue Test partition = 0.6202 : 2019-05-01 23:29:14
+[INFO] class PhaverModelTester - exec time : 979ms : 2019-05-01 23:29:14
+[INFO] Currently running class SpaceExModelTester with partition 1.0 : 2019-05-01 23:29:14
+[INFO] class SpaceExModelBuilder launched, c = 0.29 . At : 2019-05-01 23:29:14
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:29:14
+[INFO] Currently running class SpaceExModelTester with partition 0.1 : 2019-05-01 23:29:14
+[INFO] class SpaceExModelBuilder launched, c = 0.29 . At : 2019-05-01 23:29:14
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:29:14
+[INFO] class SpaceExModelTester - exec time : 14ms : 2019-05-01 23:29:14
+--------------------
+[INFO] Testing Start partition = 0.30 : 2019-05-01 23:29:14
+[INFO] Currently running class PhaverModelTester with partition 1.0 : 2019-05-01 23:29:14
+[INFO] class PhaverModelBuilder launched, c = 0.3 . At : 2019-05-01 23:29:14
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:29:14
+[INFO] Currently running class PhaverModelTester with partition 0.1 : 2019-05-01 23:29:14
+[INFO] class PhaverModelBuilder launched, c = 0.3 . At : 2019-05-01 23:29:14
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:29:22
+[INFO] Currently running class PhaverModelTester with partition 0.55 : 2019-05-01 23:29:22
+[INFO] class PhaverModelBuilder launched, c = 0.3 . At : 2019-05-01 23:29:22
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:29:23
+[INFO] Going Up and Continue Test partition = 0.55 : 2019-05-01 23:29:23
+[INFO] Currently running class PhaverModelTester with partition 0.775 : 2019-05-01 23:29:23
+[INFO] class PhaverModelBuilder launched, c = 0.3 . At : 2019-05-01 23:29:23
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:29:24
+[INFO] Going Down and Continue Test partition = 0.775 : 2019-05-01 23:29:24
+[INFO] Currently running class PhaverModelTester with partition 0.6625 : 2019-05-01 23:29:24
+[INFO] class PhaverModelBuilder launched, c = 0.3 . At : 2019-05-01 23:29:24
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:29:24
+[INFO] Going Down and Continue Test partition = 0.6625 : 2019-05-01 23:29:24
+[INFO] Currently running class PhaverModelTester with partition 0.6062 : 2019-05-01 23:29:24
+[INFO] class PhaverModelBuilder launched, c = 0.3 . At : 2019-05-01 23:29:24
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:29:25
+[INFO] Going Up and Continue Test partition = 0.6062 : 2019-05-01 23:29:25
+[INFO] Currently running class PhaverModelTester with partition 0.6343 : 2019-05-01 23:29:25
+[INFO] class PhaverModelBuilder launched, c = 0.3 . At : 2019-05-01 23:29:25
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:29:26
+[INFO] Going Down and Continue Test partition = 0.6343 : 2019-05-01 23:29:26
+[INFO] Currently running class PhaverModelTester with partition 0.6202 : 2019-05-01 23:29:26
+[INFO] class PhaverModelBuilder launched, c = 0.3 . At : 2019-05-01 23:29:26
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:29:27
+[INFO] Going Up and Continue Test partition = 0.6202 : 2019-05-01 23:29:27
+[INFO] class PhaverModelTester - exec time : 1024ms : 2019-05-01 23:29:27
+[INFO] Currently running class SpaceExModelTester with partition 1.0 : 2019-05-01 23:29:27
+[INFO] class SpaceExModelBuilder launched, c = 0.3 . At : 2019-05-01 23:29:27
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:29:27
+[INFO] Currently running class SpaceExModelTester with partition 0.1 : 2019-05-01 23:29:27
+[INFO] class SpaceExModelBuilder launched, c = 0.3 . At : 2019-05-01 23:29:27
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:29:27
+[INFO] class SpaceExModelTester - exec time : 6ms : 2019-05-01 23:29:27
+--------------------
+[INFO] Testing Start partition = 0.31 : 2019-05-01 23:29:27
+[INFO] Currently running class PhaverModelTester with partition 1.0 : 2019-05-01 23:29:27
+[INFO] class PhaverModelBuilder launched, c = 0.31 . At : 2019-05-01 23:29:27
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:29:27
+[INFO] Currently running class PhaverModelTester with partition 0.1 : 2019-05-01 23:29:27
+[INFO] class PhaverModelBuilder launched, c = 0.31 . At : 2019-05-01 23:29:27
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:29:35
+[INFO] Currently running class PhaverModelTester with partition 0.55 : 2019-05-01 23:29:35
+[INFO] class PhaverModelBuilder launched, c = 0.31 . At : 2019-05-01 23:29:35
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:29:36
+[INFO] Going Up and Continue Test partition = 0.55 : 2019-05-01 23:29:36
+[INFO] Currently running class PhaverModelTester with partition 0.775 : 2019-05-01 23:29:36
+[INFO] class PhaverModelBuilder launched, c = 0.31 . At : 2019-05-01 23:29:36
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:29:37
+[INFO] Going Down and Continue Test partition = 0.775 : 2019-05-01 23:29:37
+[INFO] Currently running class PhaverModelTester with partition 0.6625 : 2019-05-01 23:29:37
+[INFO] class PhaverModelBuilder launched, c = 0.31 . At : 2019-05-01 23:29:37
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:29:37
+[INFO] Going Down and Continue Test partition = 0.6625 : 2019-05-01 23:29:37
+[INFO] Currently running class PhaverModelTester with partition 0.6062 : 2019-05-01 23:29:37
+[INFO] class PhaverModelBuilder launched, c = 0.31 . At : 2019-05-01 23:29:37
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:29:38
+[INFO] Going Up and Continue Test partition = 0.6062 : 2019-05-01 23:29:38
+[INFO] Currently running class PhaverModelTester with partition 0.6343 : 2019-05-01 23:29:38
+[INFO] class PhaverModelBuilder launched, c = 0.31 . At : 2019-05-01 23:29:38
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:29:39
+[INFO] Going Down and Continue Test partition = 0.6343 : 2019-05-01 23:29:39
+[INFO] Currently running class PhaverModelTester with partition 0.6202 : 2019-05-01 23:29:39
+[INFO] class PhaverModelBuilder launched, c = 0.31 . At : 2019-05-01 23:29:39
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:29:40
+[INFO] Going Up and Continue Test partition = 0.6202 : 2019-05-01 23:29:40
+[INFO] class PhaverModelTester - exec time : 1072ms : 2019-05-01 23:29:40
+[INFO] Currently running class SpaceExModelTester with partition 1.0 : 2019-05-01 23:29:40
+[INFO] class SpaceExModelBuilder launched, c = 0.31 . At : 2019-05-01 23:29:40
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:29:40
+[INFO] Currently running class SpaceExModelTester with partition 0.1 : 2019-05-01 23:29:40
+[INFO] class SpaceExModelBuilder launched, c = 0.31 . At : 2019-05-01 23:29:40
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:29:40
+[INFO] class SpaceExModelTester - exec time : 10ms : 2019-05-01 23:29:40
+--------------------
+[INFO] Testing Start partition = 0.32 : 2019-05-01 23:29:40
+[INFO] Currently running class PhaverModelTester with partition 1.0 : 2019-05-01 23:29:40
+[INFO] class PhaverModelBuilder launched, c = 0.32 . At : 2019-05-01 23:29:40
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:29:40
+[INFO] Currently running class PhaverModelTester with partition 0.1 : 2019-05-01 23:29:40
+[INFO] class PhaverModelBuilder launched, c = 0.32 . At : 2019-05-01 23:29:40
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:29:48
+[INFO] Currently running class PhaverModelTester with partition 0.55 : 2019-05-01 23:29:48
+[INFO] class PhaverModelBuilder launched, c = 0.32 . At : 2019-05-01 23:29:48
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:29:49
+[INFO] Going Down and Continue Test partition = 0.55 : 2019-05-01 23:29:49
+[INFO] Currently running class PhaverModelTester with partition 0.325 : 2019-05-01 23:29:49
+[INFO] class PhaverModelBuilder launched, c = 0.32 . At : 2019-05-01 23:29:49
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:29:50
+[INFO] Going Down and Continue Test partition = 0.325 : 2019-05-01 23:29:50
+[INFO] Currently running class PhaverModelTester with partition 0.2125 : 2019-05-01 23:29:50
+[INFO] class PhaverModelBuilder launched, c = 0.32 . At : 2019-05-01 23:29:50
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:29:53
+[INFO] Going Up and Continue Test partition = 0.2125 : 2019-05-01 23:29:53
+[INFO] Currently running class PhaverModelTester with partition 0.2687 : 2019-05-01 23:29:53
+[INFO] class PhaverModelBuilder launched, c = 0.32 . At : 2019-05-01 23:29:53
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:29:55
+[INFO] Going Up and Continue Test partition = 0.2687 : 2019-05-01 23:29:55
+[INFO] Currently running class PhaverModelTester with partition 0.2969 : 2019-05-01 23:29:55
+[INFO] class PhaverModelBuilder launched, c = 0.32 . At : 2019-05-01 23:29:55
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:29:58
+[INFO] Going Up and Continue Test partition = 0.2969 : 2019-05-01 23:29:58
+[INFO] Currently running class PhaverModelTester with partition 0.311 : 2019-05-01 23:29:58
+[INFO] class PhaverModelBuilder launched, c = 0.32 . At : 2019-05-01 23:29:58
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:30:00
+[INFO] Going Up and Continue Test partition = 0.311 : 2019-05-01 23:30:00
+[INFO] class PhaverModelTester - exec time : 2533ms : 2019-05-01 23:30:00
+[INFO] Currently running class SpaceExModelTester with partition 1.0 : 2019-05-01 23:30:00
+[INFO] class SpaceExModelBuilder launched, c = 0.32 . At : 2019-05-01 23:30:00
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:30:00
+[INFO] Currently running class SpaceExModelTester with partition 0.1 : 2019-05-01 23:30:00
+[INFO] class SpaceExModelBuilder launched, c = 0.32 . At : 2019-05-01 23:30:00
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:30:00
+[INFO] class SpaceExModelTester - exec time : 18ms : 2019-05-01 23:30:00
+--------------------
+[INFO] Testing Start partition = 0.33 : 2019-05-01 23:30:00
+[INFO] Currently running class PhaverModelTester with partition 1.0 : 2019-05-01 23:30:00
+[INFO] class PhaverModelBuilder launched, c = 0.33 . At : 2019-05-01 23:30:00
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:30:01
+[INFO] Currently running class PhaverModelTester with partition 0.1 : 2019-05-01 23:30:01
+[INFO] class PhaverModelBuilder launched, c = 0.33 . At : 2019-05-01 23:30:01
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:30:09
+[INFO] Currently running class PhaverModelTester with partition 0.55 : 2019-05-01 23:30:09
+[INFO] class PhaverModelBuilder launched, c = 0.33 . At : 2019-05-01 23:30:09
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:30:10
+[INFO] Going Down and Continue Test partition = 0.55 : 2019-05-01 23:30:10
+[INFO] Currently running class PhaverModelTester with partition 0.325 : 2019-05-01 23:30:10
+[INFO] class PhaverModelBuilder launched, c = 0.33 . At : 2019-05-01 23:30:10
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:30:11
+[INFO] Going Down and Continue Test partition = 0.325 : 2019-05-01 23:30:11
+[INFO] Currently running class PhaverModelTester with partition 0.2125 : 2019-05-01 23:30:11
+[INFO] class PhaverModelBuilder launched, c = 0.33 . At : 2019-05-01 23:30:11
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:30:13
+[INFO] Going Up and Continue Test partition = 0.2125 : 2019-05-01 23:30:13
+[INFO] Currently running class PhaverModelTester with partition 0.2687 : 2019-05-01 23:30:13
+[INFO] class PhaverModelBuilder launched, c = 0.33 . At : 2019-05-01 23:30:13
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:30:16
+[INFO] Going Up and Continue Test partition = 0.2687 : 2019-05-01 23:30:16
+[INFO] Currently running class PhaverModelTester with partition 0.2969 : 2019-05-01 23:30:16
+[INFO] class PhaverModelBuilder launched, c = 0.33 . At : 2019-05-01 23:30:16
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:30:18
+[INFO] Going Up and Continue Test partition = 0.2969 : 2019-05-01 23:30:18
+[INFO] Currently running class PhaverModelTester with partition 0.311 : 2019-05-01 23:30:18
+[INFO] class PhaverModelBuilder launched, c = 0.33 . At : 2019-05-01 23:30:18
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:30:21
+[INFO] Going Up and Continue Test partition = 0.311 : 2019-05-01 23:30:21
+[INFO] class PhaverModelTester - exec time : 2674ms : 2019-05-01 23:30:21
+[INFO] Currently running class SpaceExModelTester with partition 1.0 : 2019-05-01 23:30:21
+[INFO] class SpaceExModelBuilder launched, c = 0.33 . At : 2019-05-01 23:30:21
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:30:21
+[INFO] Currently running class SpaceExModelTester with partition 0.1 : 2019-05-01 23:30:21
+[INFO] class SpaceExModelBuilder launched, c = 0.33 . At : 2019-05-01 23:30:21
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:30:21
+[INFO] class SpaceExModelTester - exec time : 30ms : 2019-05-01 23:30:21
+--------------------
+[INFO] Testing Start partition = 0.34 : 2019-05-01 23:30:21
+[INFO] Currently running class PhaverModelTester with partition 1.0 : 2019-05-01 23:30:21
+[INFO] class PhaverModelBuilder launched, c = 0.34 . At : 2019-05-01 23:30:21
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:30:22
+[INFO] Currently running class PhaverModelTester with partition 0.1 : 2019-05-01 23:30:22
+[INFO] class PhaverModelBuilder launched, c = 0.34 . At : 2019-05-01 23:30:22
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:30:31
+[INFO] Currently running class PhaverModelTester with partition 0.55 : 2019-05-01 23:30:31
+[INFO] class PhaverModelBuilder launched, c = 0.34 . At : 2019-05-01 23:30:31
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:30:32
+[INFO] Going Down and Continue Test partition = 0.55 : 2019-05-01 23:30:32
+[INFO] Currently running class PhaverModelTester with partition 0.325 : 2019-05-01 23:30:32
+[INFO] class PhaverModelBuilder launched, c = 0.34 . At : 2019-05-01 23:30:32
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:30:33
+[INFO] Going Down and Continue Test partition = 0.325 : 2019-05-01 23:30:33
+[INFO] Currently running class PhaverModelTester with partition 0.2125 : 2019-05-01 23:30:33
+[INFO] class PhaverModelBuilder launched, c = 0.34 . At : 2019-05-01 23:30:33
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:30:35
+[INFO] Going Up and Continue Test partition = 0.2125 : 2019-05-01 23:30:35
+[INFO] Currently running class PhaverModelTester with partition 0.2687 : 2019-05-01 23:30:35
+[INFO] class PhaverModelBuilder launched, c = 0.34 . At : 2019-05-01 23:30:35
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:30:38
+[INFO] Going Up and Continue Test partition = 0.2687 : 2019-05-01 23:30:38
+[INFO] Currently running class PhaverModelTester with partition 0.2969 : 2019-05-01 23:30:38
+[INFO] class PhaverModelBuilder launched, c = 0.34 . At : 2019-05-01 23:30:38
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:30:41
+[INFO] Going Up and Continue Test partition = 0.2969 : 2019-05-01 23:30:41
+[INFO] Currently running class PhaverModelTester with partition 0.311 : 2019-05-01 23:30:41
+[INFO] class PhaverModelBuilder launched, c = 0.34 . At : 2019-05-01 23:30:41
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:30:43
+[INFO] Going Up and Continue Test partition = 0.311 : 2019-05-01 23:30:43
+[INFO] class PhaverModelTester - exec time : 2554ms : 2019-05-01 23:30:43
+[INFO] Currently running class SpaceExModelTester with partition 1.0 : 2019-05-01 23:30:43
+[INFO] class SpaceExModelBuilder launched, c = 0.34 . At : 2019-05-01 23:30:43
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:30:43
+[INFO] Currently running class SpaceExModelTester with partition 0.1 : 2019-05-01 23:30:43
+[INFO] class SpaceExModelBuilder launched, c = 0.34 . At : 2019-05-01 23:30:43
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:30:43
+[INFO] class SpaceExModelTester - exec time : 11ms : 2019-05-01 23:30:43
+--------------------
+[INFO] Testing Start partition = 0.35 : 2019-05-01 23:30:43
+[INFO] Currently running class PhaverModelTester with partition 1.0 : 2019-05-01 23:30:43
+[INFO] class PhaverModelBuilder launched, c = 0.35 . At : 2019-05-01 23:30:43
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:30:44
+[INFO] Currently running class PhaverModelTester with partition 0.1 : 2019-05-01 23:30:44
+[INFO] class PhaverModelBuilder launched, c = 0.35 . At : 2019-05-01 23:30:44
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:30:52
+[INFO] Currently running class PhaverModelTester with partition 0.55 : 2019-05-01 23:30:52
+[INFO] class PhaverModelBuilder launched, c = 0.35 . At : 2019-05-01 23:30:52
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:30:53
+[INFO] Going Down and Continue Test partition = 0.55 : 2019-05-01 23:30:53
+[INFO] Currently running class PhaverModelTester with partition 0.325 : 2019-05-01 23:30:53
+[INFO] class PhaverModelBuilder launched, c = 0.35 . At : 2019-05-01 23:30:53
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:30:54
+[INFO] Going Down and Continue Test partition = 0.325 : 2019-05-01 23:30:54
+[INFO] Currently running class PhaverModelTester with partition 0.2125 : 2019-05-01 23:30:54
+[INFO] class PhaverModelBuilder launched, c = 0.35 . At : 2019-05-01 23:30:54
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:30:57
+[INFO] Going Up and Continue Test partition = 0.2125 : 2019-05-01 23:30:57
+[INFO] Currently running class PhaverModelTester with partition 0.2687 : 2019-05-01 23:30:57
+[INFO] class PhaverModelBuilder launched, c = 0.35 . At : 2019-05-01 23:30:57
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:31:00
+[INFO] Going Up and Continue Test partition = 0.2687 : 2019-05-01 23:31:00
+[INFO] Currently running class PhaverModelTester with partition 0.2969 : 2019-05-01 23:31:00
+[INFO] class PhaverModelBuilder launched, c = 0.35 . At : 2019-05-01 23:31:00
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:31:03
+[INFO] Going Up and Continue Test partition = 0.2969 : 2019-05-01 23:31:03
+[INFO] Currently running class PhaverModelTester with partition 0.311 : 2019-05-01 23:31:03
+[INFO] class PhaverModelBuilder launched, c = 0.35 . At : 2019-05-01 23:31:03
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:31:06
+[INFO] Going Up and Continue Test partition = 0.311 : 2019-05-01 23:31:06
+[INFO] class PhaverModelTester - exec time : 2844ms : 2019-05-01 23:31:06
+[INFO] Currently running class SpaceExModelTester with partition 1.0 : 2019-05-01 23:31:06
+[INFO] class SpaceExModelBuilder launched, c = 0.35 . At : 2019-05-01 23:31:06
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:31:06
+[INFO] Currently running class SpaceExModelTester with partition 0.1 : 2019-05-01 23:31:06
+[INFO] class SpaceExModelBuilder launched, c = 0.35 . At : 2019-05-01 23:31:06
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:31:06
+[INFO] class SpaceExModelTester - exec time : 11ms : 2019-05-01 23:31:06
+--------------------
+[INFO] Testing Start partition = 0.36 : 2019-05-01 23:31:06
+[INFO] Currently running class PhaverModelTester with partition 1.0 : 2019-05-01 23:31:06
+[INFO] class PhaverModelBuilder launched, c = 0.36 . At : 2019-05-01 23:31:06
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:31:06
+[INFO] Currently running class PhaverModelTester with partition 0.1 : 2019-05-01 23:31:06
+[INFO] class PhaverModelBuilder launched, c = 0.36 . At : 2019-05-01 23:31:06
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:31:15
+[INFO] Currently running class PhaverModelTester with partition 0.55 : 2019-05-01 23:31:15
+[INFO] class PhaverModelBuilder launched, c = 0.36 . At : 2019-05-01 23:31:15
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:31:16
+[INFO] Going Down and Continue Test partition = 0.55 : 2019-05-01 23:31:16
+[INFO] Currently running class PhaverModelTester with partition 0.325 : 2019-05-01 23:31:16
+[INFO] class PhaverModelBuilder launched, c = 0.36 . At : 2019-05-01 23:31:16
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:31:17
+[INFO] Going Down and Continue Test partition = 0.325 : 2019-05-01 23:31:17
+[INFO] Currently running class PhaverModelTester with partition 0.2125 : 2019-05-01 23:31:17
+[INFO] class PhaverModelBuilder launched, c = 0.36 . At : 2019-05-01 23:31:17
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:31:20
+[INFO] Going Up and Continue Test partition = 0.2125 : 2019-05-01 23:31:20
+[INFO] Currently running class PhaverModelTester with partition 0.2687 : 2019-05-01 23:31:20
+[INFO] class PhaverModelBuilder launched, c = 0.36 . At : 2019-05-01 23:31:20
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:31:23
+[INFO] Going Up and Continue Test partition = 0.2687 : 2019-05-01 23:31:23
+[INFO] Currently running class PhaverModelTester with partition 0.2969 : 2019-05-01 23:31:23
+[INFO] class PhaverModelBuilder launched, c = 0.36 . At : 2019-05-01 23:31:23
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:31:26
+[INFO] Going Up and Continue Test partition = 0.2969 : 2019-05-01 23:31:26
+[INFO] Currently running class PhaverModelTester with partition 0.311 : 2019-05-01 23:31:26
+[INFO] class PhaverModelBuilder launched, c = 0.36 . At : 2019-05-01 23:31:26
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:31:29
+[INFO] Going Up and Continue Test partition = 0.311 : 2019-05-01 23:31:29
+[INFO] class PhaverModelTester - exec time : 2917ms : 2019-05-01 23:31:29
+[INFO] Currently running class SpaceExModelTester with partition 1.0 : 2019-05-01 23:31:29
+[INFO] class SpaceExModelBuilder launched, c = 0.36 . At : 2019-05-01 23:31:29
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:31:29
+[INFO] Currently running class SpaceExModelTester with partition 0.1 : 2019-05-01 23:31:29
+[INFO] class SpaceExModelBuilder launched, c = 0.36 . At : 2019-05-01 23:31:29
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:31:29
+[INFO] class SpaceExModelTester - exec time : 15ms : 2019-05-01 23:31:29
+--------------------
+[INFO] Testing Start partition = 0.37 : 2019-05-01 23:31:29
+[INFO] Currently running class PhaverModelTester with partition 1.0 : 2019-05-01 23:31:29
+[INFO] class PhaverModelBuilder launched, c = 0.37 . At : 2019-05-01 23:31:29
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:31:29
+[INFO] Currently running class PhaverModelTester with partition 0.1 : 2019-05-01 23:31:29
+[INFO] class PhaverModelBuilder launched, c = 0.37 . At : 2019-05-01 23:31:29
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:31:38
+[INFO] Currently running class PhaverModelTester with partition 0.55 : 2019-05-01 23:31:38
+[INFO] class PhaverModelBuilder launched, c = 0.37 . At : 2019-05-01 23:31:38
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:31:39
+[INFO] Going Down and Continue Test partition = 0.55 : 2019-05-01 23:31:39
+[INFO] Currently running class PhaverModelTester with partition 0.325 : 2019-05-01 23:31:39
+[INFO] class PhaverModelBuilder launched, c = 0.37 . At : 2019-05-01 23:31:39
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:31:40
+[INFO] Going Down and Continue Test partition = 0.325 : 2019-05-01 23:31:40
+[INFO] Currently running class PhaverModelTester with partition 0.2125 : 2019-05-01 23:31:40
+[INFO] class PhaverModelBuilder launched, c = 0.37 . At : 2019-05-01 23:31:40
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:31:43
+[INFO] Going Up and Continue Test partition = 0.2125 : 2019-05-01 23:31:43
+[INFO] Currently running class PhaverModelTester with partition 0.2687 : 2019-05-01 23:31:43
+[INFO] class PhaverModelBuilder launched, c = 0.37 . At : 2019-05-01 23:31:43
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:31:46
+[INFO] Going Up and Continue Test partition = 0.2687 : 2019-05-01 23:31:46
+[INFO] Currently running class PhaverModelTester with partition 0.2969 : 2019-05-01 23:31:46
+[INFO] class PhaverModelBuilder launched, c = 0.37 . At : 2019-05-01 23:31:46
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:31:49
+[INFO] Going Up and Continue Test partition = 0.2969 : 2019-05-01 23:31:49
+[INFO] Currently running class PhaverModelTester with partition 0.311 : 2019-05-01 23:31:49
+[INFO] class PhaverModelBuilder launched, c = 0.37 . At : 2019-05-01 23:31:49
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:31:52
+[INFO] Going Up and Continue Test partition = 0.311 : 2019-05-01 23:31:52
+[INFO] class PhaverModelTester - exec time : 2942ms : 2019-05-01 23:31:52
+[INFO] Currently running class SpaceExModelTester with partition 1.0 : 2019-05-01 23:31:52
+[INFO] class SpaceExModelBuilder launched, c = 0.37 . At : 2019-05-01 23:31:52
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:31:52
+[INFO] Currently running class SpaceExModelTester with partition 0.1 : 2019-05-01 23:31:52
+[INFO] class SpaceExModelBuilder launched, c = 0.37 . At : 2019-05-01 23:31:52
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:31:52
+[INFO] class SpaceExModelTester - exec time : 11ms : 2019-05-01 23:31:52
+--------------------
+[INFO] Testing Start partition = 0.38 : 2019-05-01 23:31:52
+[INFO] Currently running class PhaverModelTester with partition 1.0 : 2019-05-01 23:31:52
+[INFO] class PhaverModelBuilder launched, c = 0.38 . At : 2019-05-01 23:31:52
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:31:53
+[INFO] Currently running class PhaverModelTester with partition 0.1 : 2019-05-01 23:31:53
+[INFO] class PhaverModelBuilder launched, c = 0.38 . At : 2019-05-01 23:31:53
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:32:02
+[INFO] Currently running class PhaverModelTester with partition 0.55 : 2019-05-01 23:32:02
+[INFO] class PhaverModelBuilder launched, c = 0.38 . At : 2019-05-01 23:32:02
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:32:03
+[INFO] Going Down and Continue Test partition = 0.55 : 2019-05-01 23:32:03
+[INFO] Currently running class PhaverModelTester with partition 0.325 : 2019-05-01 23:32:03
+[INFO] class PhaverModelBuilder launched, c = 0.38 . At : 2019-05-01 23:32:03
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:32:04
+[INFO] Going Down and Continue Test partition = 0.325 : 2019-05-01 23:32:04
+[INFO] Currently running class PhaverModelTester with partition 0.2125 : 2019-05-01 23:32:04
+[INFO] class PhaverModelBuilder launched, c = 0.38 . At : 2019-05-01 23:32:04
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:32:08
+[INFO] Going Up and Continue Test partition = 0.2125 : 2019-05-01 23:32:08
+[INFO] Currently running class PhaverModelTester with partition 0.2687 : 2019-05-01 23:32:08
+[INFO] class PhaverModelBuilder launched, c = 0.38 . At : 2019-05-01 23:32:08
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:32:11
+[INFO] Going Up and Continue Test partition = 0.2687 : 2019-05-01 23:32:11
+[INFO] Currently running class PhaverModelTester with partition 0.2969 : 2019-05-01 23:32:11
+[INFO] class PhaverModelBuilder launched, c = 0.38 . At : 2019-05-01 23:32:11
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:32:14
+[INFO] Going Up and Continue Test partition = 0.2969 : 2019-05-01 23:32:14
+[INFO] Currently running class PhaverModelTester with partition 0.311 : 2019-05-01 23:32:14
+[INFO] class PhaverModelBuilder launched, c = 0.38 . At : 2019-05-01 23:32:14
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:32:17
+[INFO] Going Up and Continue Test partition = 0.311 : 2019-05-01 23:32:17
+[INFO] class PhaverModelTester - exec time : 3135ms : 2019-05-01 23:32:17
+[INFO] Currently running class SpaceExModelTester with partition 1.0 : 2019-05-01 23:32:17
+[INFO] class SpaceExModelBuilder launched, c = 0.38 . At : 2019-05-01 23:32:17
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:32:17
+[INFO] Currently running class SpaceExModelTester with partition 0.1 : 2019-05-01 23:32:17
+[INFO] class SpaceExModelBuilder launched, c = 0.38 . At : 2019-05-01 23:32:17
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:32:17
+[INFO] class SpaceExModelTester - exec time : 38ms : 2019-05-01 23:32:17
+--------------------
+[INFO] Testing Start partition = 0.39 : 2019-05-01 23:32:17
+[INFO] Currently running class PhaverModelTester with partition 1.0 : 2019-05-01 23:32:17
+[INFO] class PhaverModelBuilder launched, c = 0.39 . At : 2019-05-01 23:32:17
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:32:18
+[INFO] Currently running class PhaverModelTester with partition 0.1 : 2019-05-01 23:32:18
+[INFO] class PhaverModelBuilder launched, c = 0.39 . At : 2019-05-01 23:32:18
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:32:28
+[INFO] Currently running class PhaverModelTester with partition 0.55 : 2019-05-01 23:32:28
+[INFO] class PhaverModelBuilder launched, c = 0.39 . At : 2019-05-01 23:32:28
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:32:29
+[INFO] Going Down and Continue Test partition = 0.55 : 2019-05-01 23:32:29
+[INFO] Currently running class PhaverModelTester with partition 0.325 : 2019-05-01 23:32:29
+[INFO] class PhaverModelBuilder launched, c = 0.39 . At : 2019-05-01 23:32:29
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:32:30
+[INFO] Going Down and Continue Test partition = 0.325 : 2019-05-01 23:32:30
+[INFO] Currently running class PhaverModelTester with partition 0.2125 : 2019-05-01 23:32:30
+[INFO] class PhaverModelBuilder launched, c = 0.39 . At : 2019-05-01 23:32:30
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:32:33
+[INFO] Going Up and Continue Test partition = 0.2125 : 2019-05-01 23:32:33
+[INFO] Currently running class PhaverModelTester with partition 0.2687 : 2019-05-01 23:32:33
+[INFO] class PhaverModelBuilder launched, c = 0.39 . At : 2019-05-01 23:32:33
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:32:36
+[INFO] Going Up and Continue Test partition = 0.2687 : 2019-05-01 23:32:36
+[INFO] Currently running class PhaverModelTester with partition 0.2969 : 2019-05-01 23:32:36
+[INFO] class PhaverModelBuilder launched, c = 0.39 . At : 2019-05-01 23:32:36
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:32:39
+[INFO] Going Up and Continue Test partition = 0.2969 : 2019-05-01 23:32:39
+[INFO] Currently running class PhaverModelTester with partition 0.311 : 2019-05-01 23:32:39
+[INFO] class PhaverModelBuilder launched, c = 0.39 . At : 2019-05-01 23:32:39
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:32:42
+[INFO] Going Up and Continue Test partition = 0.311 : 2019-05-01 23:32:42
+[INFO] class PhaverModelTester - exec time : 2963ms : 2019-05-01 23:32:42
+[INFO] Currently running class SpaceExModelTester with partition 1.0 : 2019-05-01 23:32:42
+[INFO] class SpaceExModelBuilder launched, c = 0.39 . At : 2019-05-01 23:32:42
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:32:42
+[INFO] Currently running class SpaceExModelTester with partition 0.1 : 2019-05-01 23:32:42
+[INFO] class SpaceExModelBuilder launched, c = 0.39 . At : 2019-05-01 23:32:42
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:32:42
+[INFO] class SpaceExModelTester - exec time : 16ms : 2019-05-01 23:32:42
+--------------------
+[INFO] Testing Start partition = 0.40 : 2019-05-01 23:32:42
+[INFO] Currently running class PhaverModelTester with partition 1.0 : 2019-05-01 23:32:42
+[INFO] class PhaverModelBuilder launched, c = 0.4 . At : 2019-05-01 23:32:42
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:32:43
+[INFO] Currently running class PhaverModelTester with partition 0.1 : 2019-05-01 23:32:43
+[INFO] class PhaverModelBuilder launched, c = 0.4 . At : 2019-05-01 23:32:43
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:32:53
+[INFO] Currently running class PhaverModelTester with partition 0.55 : 2019-05-01 23:32:53
+[INFO] class PhaverModelBuilder launched, c = 0.4 . At : 2019-05-01 23:32:53
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:32:54
+[INFO] Going Down and Continue Test partition = 0.55 : 2019-05-01 23:32:54
+[INFO] Currently running class PhaverModelTester with partition 0.325 : 2019-05-01 23:32:54
+[INFO] class PhaverModelBuilder launched, c = 0.4 . At : 2019-05-01 23:32:54
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:32:55
+[INFO] Going Down and Continue Test partition = 0.325 : 2019-05-01 23:32:55
+[INFO] Currently running class PhaverModelTester with partition 0.2125 : 2019-05-01 23:32:55
+[INFO] class PhaverModelBuilder launched, c = 0.4 . At : 2019-05-01 23:32:55
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:32:58
+[INFO] Going Up and Continue Test partition = 0.2125 : 2019-05-01 23:32:58
+[INFO] Currently running class PhaverModelTester with partition 0.2687 : 2019-05-01 23:32:58
+[INFO] class PhaverModelBuilder launched, c = 0.4 . At : 2019-05-01 23:32:58
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:33:01
+[INFO] Going Up and Continue Test partition = 0.2687 : 2019-05-01 23:33:01
+[INFO] Currently running class PhaverModelTester with partition 0.2969 : 2019-05-01 23:33:01
+[INFO] class PhaverModelBuilder launched, c = 0.4 . At : 2019-05-01 23:33:01
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:33:04
+[INFO] Going Up and Continue Test partition = 0.2969 : 2019-05-01 23:33:04
+[INFO] Currently running class PhaverModelTester with partition 0.311 : 2019-05-01 23:33:04
+[INFO] class PhaverModelBuilder launched, c = 0.4 . At : 2019-05-01 23:33:04
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:33:08
+[INFO] Going Up and Continue Test partition = 0.311 : 2019-05-01 23:33:08
+[INFO] class PhaverModelTester - exec time : 3144ms : 2019-05-01 23:33:08
+[INFO] Currently running class SpaceExModelTester with partition 1.0 : 2019-05-01 23:33:08
+[INFO] class SpaceExModelBuilder launched, c = 0.4 . At : 2019-05-01 23:33:08
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:33:08
+[INFO] Currently running class SpaceExModelTester with partition 0.1 : 2019-05-01 23:33:08
+[INFO] class SpaceExModelBuilder launched, c = 0.4 . At : 2019-05-01 23:33:08
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:33:08
+[INFO] class SpaceExModelTester - exec time : 18ms : 2019-05-01 23:33:08
+--------------------
+[INFO] Testing Start partition = 0.41 : 2019-05-01 23:33:08
+[INFO] Currently running class PhaverModelTester with partition 1.0 : 2019-05-01 23:33:08
+[INFO] class PhaverModelBuilder launched, c = 0.41 . At : 2019-05-01 23:33:08
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:33:08
+[INFO] Currently running class PhaverModelTester with partition 0.1 : 2019-05-01 23:33:08
+[INFO] class PhaverModelBuilder launched, c = 0.41 . At : 2019-05-01 23:33:08
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:33:21
+[INFO] Currently running class PhaverModelTester with partition 0.55 : 2019-05-01 23:33:21
+[INFO] class PhaverModelBuilder launched, c = 0.41 . At : 2019-05-01 23:33:21
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:33:23
+[INFO] Going Down and Continue Test partition = 0.55 : 2019-05-01 23:33:23
+[INFO] Currently running class PhaverModelTester with partition 0.325 : 2019-05-01 23:33:23
+[INFO] class PhaverModelBuilder launched, c = 0.41 . At : 2019-05-01 23:33:23
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:33:24
+[INFO] Going Down and Continue Test partition = 0.325 : 2019-05-01 23:33:24
+[INFO] Currently running class PhaverModelTester with partition 0.2125 : 2019-05-01 23:33:24
+[INFO] class PhaverModelBuilder launched, c = 0.41 . At : 2019-05-01 23:33:24
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:33:28
+[INFO] Going Up and Continue Test partition = 0.2125 : 2019-05-01 23:33:28
+[INFO] Currently running class PhaverModelTester with partition 0.2687 : 2019-05-01 23:33:28
+[INFO] class PhaverModelBuilder launched, c = 0.41 . At : 2019-05-01 23:33:28
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:33:33
+[INFO] Going Up and Continue Test partition = 0.2687 : 2019-05-01 23:33:33
+[INFO] Currently running class PhaverModelTester with partition 0.2969 : 2019-05-01 23:33:33
+[INFO] class PhaverModelBuilder launched, c = 0.41 . At : 2019-05-01 23:33:33
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:33:37
+[INFO] Going Up and Continue Test partition = 0.2969 : 2019-05-01 23:33:37
+[INFO] Currently running class PhaverModelTester with partition 0.311 : 2019-05-01 23:33:37
+[INFO] class PhaverModelBuilder launched, c = 0.41 . At : 2019-05-01 23:33:37
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:33:41
+[INFO] Going Up and Continue Test partition = 0.311 : 2019-05-01 23:33:41
+[INFO] class PhaverModelTester - exec time : 4444ms : 2019-05-01 23:33:41
+[INFO] Currently running class SpaceExModelTester with partition 1.0 : 2019-05-01 23:33:41
+[INFO] class SpaceExModelBuilder launched, c = 0.41 . At : 2019-05-01 23:33:41
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:33:41
+[INFO] Currently running class SpaceExModelTester with partition 0.1 : 2019-05-01 23:33:41
+[INFO] class SpaceExModelBuilder launched, c = 0.41 . At : 2019-05-01 23:33:41
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:33:41
+[INFO] class SpaceExModelTester - exec time : 18ms : 2019-05-01 23:33:41
+--------------------
+[INFO] Testing Start partition = 0.42 : 2019-05-01 23:33:41
+[INFO] Currently running class PhaverModelTester with partition 1.0 : 2019-05-01 23:33:41
+[INFO] class PhaverModelBuilder launched, c = 0.42 . At : 2019-05-01 23:33:41
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:33:42
+[INFO] Currently running class PhaverModelTester with partition 0.1 : 2019-05-01 23:33:42
+[INFO] class PhaverModelBuilder launched, c = 0.42 . At : 2019-05-01 23:33:42
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:33:56
+[INFO] Currently running class PhaverModelTester with partition 0.55 : 2019-05-01 23:33:56
+[INFO] class PhaverModelBuilder launched, c = 0.42 . At : 2019-05-01 23:33:56
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:33:57
+[INFO] Going Down and Continue Test partition = 0.55 : 2019-05-01 23:33:57
+[INFO] Currently running class PhaverModelTester with partition 0.325 : 2019-05-01 23:33:57
+[INFO] class PhaverModelBuilder launched, c = 0.42 . At : 2019-05-01 23:33:57
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:33:58
+[INFO] Going Down and Continue Test partition = 0.325 : 2019-05-01 23:33:58
+[INFO] Currently running class PhaverModelTester with partition 0.2125 : 2019-05-01 23:33:58
+[INFO] class PhaverModelBuilder launched, c = 0.42 . At : 2019-05-01 23:33:58
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:34:03
+[INFO] Going Up and Continue Test partition = 0.2125 : 2019-05-01 23:34:03
+[INFO] Currently running class PhaverModelTester with partition 0.2687 : 2019-05-01 23:34:03
+[INFO] class PhaverModelBuilder launched, c = 0.42 . At : 2019-05-01 23:34:03
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:34:07
+[INFO] Going Up and Continue Test partition = 0.2687 : 2019-05-01 23:34:07
+[INFO] Currently running class PhaverModelTester with partition 0.2969 : 2019-05-01 23:34:07
+[INFO] class PhaverModelBuilder launched, c = 0.42 . At : 2019-05-01 23:34:07
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:34:11
+[INFO] Going Up and Continue Test partition = 0.2969 : 2019-05-01 23:34:11
+[INFO] Currently running class PhaverModelTester with partition 0.311 : 2019-05-01 23:34:11
+[INFO] class PhaverModelBuilder launched, c = 0.42 . At : 2019-05-01 23:34:11
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:34:15
+[INFO] Going Up and Continue Test partition = 0.311 : 2019-05-01 23:34:15
+[INFO] class PhaverModelTester - exec time : 4325ms : 2019-05-01 23:34:15
+[INFO] Currently running class SpaceExModelTester with partition 1.0 : 2019-05-01 23:34:15
+[INFO] class SpaceExModelBuilder launched, c = 0.42 . At : 2019-05-01 23:34:15
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:34:16
+[INFO] Currently running class SpaceExModelTester with partition 0.1 : 2019-05-01 23:34:16
+[INFO] class SpaceExModelBuilder launched, c = 0.42 . At : 2019-05-01 23:34:16
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:34:16
+[INFO] class SpaceExModelTester - exec time : 43ms : 2019-05-01 23:34:16
+--------------------
+[INFO] Testing Start partition = 0.43 : 2019-05-01 23:34:16
+[INFO] Currently running class PhaverModelTester with partition 1.0 : 2019-05-01 23:34:16
+[INFO] class PhaverModelBuilder launched, c = 0.43 . At : 2019-05-01 23:34:16
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:34:16
+[INFO] Currently running class PhaverModelTester with partition 0.1 : 2019-05-01 23:34:16
+[INFO] class PhaverModelBuilder launched, c = 0.43 . At : 2019-05-01 23:34:16
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:34:33
+[INFO] Currently running class PhaverModelTester with partition 0.55 : 2019-05-01 23:34:33
+[INFO] class PhaverModelBuilder launched, c = 0.43 . At : 2019-05-01 23:34:33
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:34:40
+[INFO] Going Down and Continue Test partition = 0.55 : 2019-05-01 23:34:40
+[INFO] Currently running class PhaverModelTester with partition 0.325 : 2019-05-01 23:34:40
+[INFO] class PhaverModelBuilder launched, c = 0.43 . At : 2019-05-01 23:34:40
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:34:46
+[INFO] Going Down and Continue Test partition = 0.325 : 2019-05-01 23:34:46
+[INFO] Currently running class PhaverModelTester with partition 0.2125 : 2019-05-01 23:34:46
+[INFO] class PhaverModelBuilder launched, c = 0.43 . At : 2019-05-01 23:34:46
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:34:54
+[INFO] Going Up and Continue Test partition = 0.2125 : 2019-05-01 23:34:54
+[INFO] Currently running class PhaverModelTester with partition 0.2687 : 2019-05-01 23:34:54
+[INFO] class PhaverModelBuilder launched, c = 0.43 . At : 2019-05-01 23:34:54
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:34:58
+[INFO] Going Up and Continue Test partition = 0.2687 : 2019-05-01 23:34:58
+[INFO] Currently running class PhaverModelTester with partition 0.2969 : 2019-05-01 23:34:58
+[INFO] class PhaverModelBuilder launched, c = 0.43 . At : 2019-05-01 23:34:58
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:35:03
+[INFO] Going Up and Continue Test partition = 0.2969 : 2019-05-01 23:35:03
+[INFO] Currently running class PhaverModelTester with partition 0.311 : 2019-05-01 23:35:03
+[INFO] class PhaverModelBuilder launched, c = 0.43 . At : 2019-05-01 23:35:03
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:35:07
+[INFO] Going Up and Continue Test partition = 0.311 : 2019-05-01 23:35:07
+[INFO] class PhaverModelTester - exec time : 4564ms : 2019-05-01 23:35:07
+[INFO] Currently running class SpaceExModelTester with partition 1.0 : 2019-05-01 23:35:07
+[INFO] class SpaceExModelBuilder launched, c = 0.43 . At : 2019-05-01 23:35:07
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:35:07
+[INFO] Currently running class SpaceExModelTester with partition 0.1 : 2019-05-01 23:35:07
+[INFO] class SpaceExModelBuilder launched, c = 0.43 . At : 2019-05-01 23:35:07
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:35:07
+[INFO] class SpaceExModelTester - exec time : 44ms : 2019-05-01 23:35:07
+--------------------
+[INFO] Testing Start partition = 0.44 : 2019-05-01 23:35:07
+[INFO] Currently running class PhaverModelTester with partition 1.0 : 2019-05-01 23:35:07
+[INFO] class PhaverModelBuilder launched, c = 0.44 . At : 2019-05-01 23:35:07
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:35:08
+[INFO] Currently running class PhaverModelTester with partition 0.1 : 2019-05-01 23:35:08
+[INFO] class PhaverModelBuilder launched, c = 0.44 . At : 2019-05-01 23:35:08
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:35:23
+[INFO] Currently running class PhaverModelTester with partition 0.55 : 2019-05-01 23:35:23
+[INFO] class PhaverModelBuilder launched, c = 0.44 . At : 2019-05-01 23:35:23
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:35:24
+[INFO] Going Down and Continue Test partition = 0.55 : 2019-05-01 23:35:24
+[INFO] Currently running class PhaverModelTester with partition 0.325 : 2019-05-01 23:35:24
+[INFO] class PhaverModelBuilder launched, c = 0.44 . At : 2019-05-01 23:35:24
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:35:25
+[INFO] Going Down and Continue Test partition = 0.325 : 2019-05-01 23:35:25
+[INFO] Currently running class PhaverModelTester with partition 0.2125 : 2019-05-01 23:35:25
+[INFO] class PhaverModelBuilder launched, c = 0.44 . At : 2019-05-01 23:35:25
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:35:30
+[INFO] Going Up and Continue Test partition = 0.2125 : 2019-05-01 23:35:30
+[INFO] Currently running class PhaverModelTester with partition 0.2687 : 2019-05-01 23:35:30
+[INFO] class PhaverModelBuilder launched, c = 0.44 . At : 2019-05-01 23:35:30
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:35:34
+[INFO] Going Up and Continue Test partition = 0.2687 : 2019-05-01 23:35:34
+[INFO] Currently running class PhaverModelTester with partition 0.2969 : 2019-05-01 23:35:34
+[INFO] class PhaverModelBuilder launched, c = 0.44 . At : 2019-05-01 23:35:34
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:35:39
+[INFO] Going Up and Continue Test partition = 0.2969 : 2019-05-01 23:35:39
+[INFO] Currently running class PhaverModelTester with partition 0.311 : 2019-05-01 23:35:39
+[INFO] class PhaverModelBuilder launched, c = 0.44 . At : 2019-05-01 23:35:39
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:35:43
+[INFO] Going Up and Continue Test partition = 0.311 : 2019-05-01 23:35:43
+[INFO] class PhaverModelTester - exec time : 4655ms : 2019-05-01 23:35:43
+[INFO] Currently running class SpaceExModelTester with partition 1.0 : 2019-05-01 23:35:43
+[INFO] class SpaceExModelBuilder launched, c = 0.44 . At : 2019-05-01 23:35:43
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:35:43
+[INFO] Currently running class SpaceExModelTester with partition 0.1 : 2019-05-01 23:35:43
+[INFO] class SpaceExModelBuilder launched, c = 0.44 . At : 2019-05-01 23:35:43
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:35:44
+[INFO] class SpaceExModelTester - exec time : 50ms : 2019-05-01 23:35:44
+--------------------
+[INFO] Testing Start partition = 0.45 : 2019-05-01 23:35:44
+[INFO] Currently running class PhaverModelTester with partition 1.0 : 2019-05-01 23:35:44
+[INFO] class PhaverModelBuilder launched, c = 0.45 . At : 2019-05-01 23:35:44
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:35:44
+[INFO] Currently running class PhaverModelTester with partition 0.1 : 2019-05-01 23:35:44
+[INFO] class PhaverModelBuilder launched, c = 0.45 . At : 2019-05-01 23:35:44
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:35:59
+[INFO] Currently running class PhaverModelTester with partition 0.55 : 2019-05-01 23:35:59
+[INFO] class PhaverModelBuilder launched, c = 0.45 . At : 2019-05-01 23:35:59
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:36:00
+[INFO] Going Down and Continue Test partition = 0.55 : 2019-05-01 23:36:00
+[INFO] Currently running class PhaverModelTester with partition 0.325 : 2019-05-01 23:36:00
+[INFO] class PhaverModelBuilder launched, c = 0.45 . At : 2019-05-01 23:36:00
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:36:02
+[INFO] Going Down and Continue Test partition = 0.325 : 2019-05-01 23:36:02
+[INFO] Currently running class PhaverModelTester with partition 0.2125 : 2019-05-01 23:36:02
+[INFO] class PhaverModelBuilder launched, c = 0.45 . At : 2019-05-01 23:36:02
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:36:06
+[INFO] Going Up and Continue Test partition = 0.2125 : 2019-05-01 23:36:06
+[INFO] Currently running class PhaverModelTester with partition 0.2687 : 2019-05-01 23:36:06
+[INFO] class PhaverModelBuilder launched, c = 0.45 . At : 2019-05-01 23:36:06
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:36:11
+[INFO] Going Up and Continue Test partition = 0.2687 : 2019-05-01 23:36:11
+[INFO] Currently running class PhaverModelTester with partition 0.2969 : 2019-05-01 23:36:11
+[INFO] class PhaverModelBuilder launched, c = 0.45 . At : 2019-05-01 23:36:11
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:36:16
+[INFO] Going Up and Continue Test partition = 0.2969 : 2019-05-01 23:36:16
+[INFO] Currently running class PhaverModelTester with partition 0.311 : 2019-05-01 23:36:16
+[INFO] class PhaverModelBuilder launched, c = 0.45 . At : 2019-05-01 23:36:16
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:36:20
+[INFO] Going Up and Continue Test partition = 0.311 : 2019-05-01 23:36:20
+[INFO] class PhaverModelTester - exec time : 4742ms : 2019-05-01 23:36:20
+[INFO] Currently running class SpaceExModelTester with partition 1.0 : 2019-05-01 23:36:20
+[INFO] class SpaceExModelBuilder launched, c = 0.45 . At : 2019-05-01 23:36:20
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:36:20
+[INFO] Currently running class SpaceExModelTester with partition 0.1 : 2019-05-01 23:36:20
+[INFO] class SpaceExModelBuilder launched, c = 0.45 . At : 2019-05-01 23:36:20
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:36:21
+[INFO] class SpaceExModelTester - exec time : 17ms : 2019-05-01 23:36:21
+--------------------
+[INFO] Testing Start partition = 0.46 : 2019-05-01 23:36:21
+[INFO] Currently running class PhaverModelTester with partition 1.0 : 2019-05-01 23:36:21
+[INFO] class PhaverModelBuilder launched, c = 0.46 . At : 2019-05-01 23:36:21
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:36:21
+[INFO] Currently running class PhaverModelTester with partition 0.1 : 2019-05-01 23:36:21
+[INFO] class PhaverModelBuilder launched, c = 0.46 . At : 2019-05-01 23:36:21
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:36:36
+[INFO] Currently running class PhaverModelTester with partition 0.55 : 2019-05-01 23:36:36
+[INFO] class PhaverModelBuilder launched, c = 0.46 . At : 2019-05-01 23:36:36
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:36:38
+[INFO] Going Down and Continue Test partition = 0.55 : 2019-05-01 23:36:38
+[INFO] Currently running class PhaverModelTester with partition 0.325 : 2019-05-01 23:36:38
+[INFO] class PhaverModelBuilder launched, c = 0.46 . At : 2019-05-01 23:36:38
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:36:39
+[INFO] Going Down and Continue Test partition = 0.325 : 2019-05-01 23:36:39
+[INFO] Currently running class PhaverModelTester with partition 0.2125 : 2019-05-01 23:36:39
+[INFO] class PhaverModelBuilder launched, c = 0.46 . At : 2019-05-01 23:36:39
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:36:45
+[INFO] Going Up and Continue Test partition = 0.2125 : 2019-05-01 23:36:45
+[INFO] Currently running class PhaverModelTester with partition 0.2687 : 2019-05-01 23:36:45
+[INFO] class PhaverModelBuilder launched, c = 0.46 . At : 2019-05-01 23:36:45
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:36:49
+[INFO] Going Up and Continue Test partition = 0.2687 : 2019-05-01 23:36:49
+[INFO] Currently running class PhaverModelTester with partition 0.2969 : 2019-05-01 23:36:49
+[INFO] class PhaverModelBuilder launched, c = 0.46 . At : 2019-05-01 23:36:49
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:36:55
+[INFO] Going Up and Continue Test partition = 0.2969 : 2019-05-01 23:36:55
+[INFO] Currently running class PhaverModelTester with partition 0.311 : 2019-05-01 23:36:55
+[INFO] class PhaverModelBuilder launched, c = 0.46 . At : 2019-05-01 23:36:55
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:37:00
+[INFO] Going Up and Continue Test partition = 0.311 : 2019-05-01 23:37:00
+[INFO] class PhaverModelTester - exec time : 5220ms : 2019-05-01 23:37:00
+[INFO] Currently running class SpaceExModelTester with partition 1.0 : 2019-05-01 23:37:00
+[INFO] class SpaceExModelBuilder launched, c = 0.46 . At : 2019-05-01 23:37:00
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:37:00
+[INFO] Currently running class SpaceExModelTester with partition 0.1 : 2019-05-01 23:37:00
+[INFO] class SpaceExModelBuilder launched, c = 0.46 . At : 2019-05-01 23:37:00
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:37:00
+[INFO] class SpaceExModelTester - exec time : 18ms : 2019-05-01 23:37:00
+--------------------
+[INFO] Testing Start partition = 0.47 : 2019-05-01 23:37:00
+[INFO] Currently running class PhaverModelTester with partition 1.0 : 2019-05-01 23:37:00
+[INFO] class PhaverModelBuilder launched, c = 0.47 . At : 2019-05-01 23:37:00
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:37:01
+[INFO] Currently running class PhaverModelTester with partition 0.1 : 2019-05-01 23:37:01
+[INFO] class PhaverModelBuilder launched, c = 0.47 . At : 2019-05-01 23:37:01
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:37:17
+[INFO] Currently running class PhaverModelTester with partition 0.55 : 2019-05-01 23:37:17
+[INFO] class PhaverModelBuilder launched, c = 0.47 . At : 2019-05-01 23:37:17
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:37:19
+[INFO] Going Down and Continue Test partition = 0.55 : 2019-05-01 23:37:19
+[INFO] Currently running class PhaverModelTester with partition 0.325 : 2019-05-01 23:37:19
+[INFO] class PhaverModelBuilder launched, c = 0.47 . At : 2019-05-01 23:37:19
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:37:20
+[INFO] Going Down and Continue Test partition = 0.325 : 2019-05-01 23:37:20
+[INFO] Currently running class PhaverModelTester with partition 0.2125 : 2019-05-01 23:37:20
+[INFO] class PhaverModelBuilder launched, c = 0.47 . At : 2019-05-01 23:37:20
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:37:26
+[INFO] Going Up and Continue Test partition = 0.2125 : 2019-05-01 23:37:26
+[INFO] Currently running class PhaverModelTester with partition 0.2687 : 2019-05-01 23:37:26
+[INFO] class PhaverModelBuilder launched, c = 0.47 . At : 2019-05-01 23:37:26
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:37:38
+[INFO] Going Up and Continue Test partition = 0.2687 : 2019-05-01 23:37:38
+[INFO] Currently running class PhaverModelTester with partition 0.2969 : 2019-05-01 23:37:38
+[INFO] class PhaverModelBuilder launched, c = 0.47 . At : 2019-05-01 23:37:38
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:37:54
+[INFO] Going Up and Continue Test partition = 0.2969 : 2019-05-01 23:37:54
+[INFO] Currently running class PhaverModelTester with partition 0.311 : 2019-05-01 23:37:54
+[INFO] class PhaverModelBuilder launched, c = 0.47 . At : 2019-05-01 23:37:54
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:37:59
+[INFO] Going Up and Continue Test partition = 0.311 : 2019-05-01 23:37:59
+[INFO] class PhaverModelTester - exec time : 5414ms : 2019-05-01 23:37:59
+[INFO] Currently running class SpaceExModelTester with partition 1.0 : 2019-05-01 23:37:59
+[INFO] class SpaceExModelBuilder launched, c = 0.47 . At : 2019-05-01 23:37:59
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:37:59
+[INFO] Currently running class SpaceExModelTester with partition 0.1 : 2019-05-01 23:37:59
+[INFO] class SpaceExModelBuilder launched, c = 0.47 . At : 2019-05-01 23:37:59
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:37:59
+[INFO] class SpaceExModelTester - exec time : 22ms : 2019-05-01 23:37:59
+--------------------
+[INFO] Testing Start partition = 0.48 : 2019-05-01 23:37:59
+[INFO] Currently running class PhaverModelTester with partition 1.0 : 2019-05-01 23:37:59
+[INFO] class PhaverModelBuilder launched, c = 0.48 . At : 2019-05-01 23:37:59
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:38:00
+[INFO] Currently running class PhaverModelTester with partition 0.1 : 2019-05-01 23:38:00
+[INFO] class PhaverModelBuilder launched, c = 0.48 . At : 2019-05-01 23:38:00
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:38:17
+[INFO] Currently running class PhaverModelTester with partition 0.55 : 2019-05-01 23:38:17
+[INFO] class PhaverModelBuilder launched, c = 0.48 . At : 2019-05-01 23:38:17
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:38:18
+[INFO] Going Down and Continue Test partition = 0.55 : 2019-05-01 23:38:18
+[INFO] Currently running class PhaverModelTester with partition 0.325 : 2019-05-01 23:38:18
+[INFO] class PhaverModelBuilder launched, c = 0.48 . At : 2019-05-01 23:38:18
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:38:20
+[INFO] Going Down and Continue Test partition = 0.325 : 2019-05-01 23:38:20
+[INFO] Currently running class PhaverModelTester with partition 0.2125 : 2019-05-01 23:38:20
+[INFO] class PhaverModelBuilder launched, c = 0.48 . At : 2019-05-01 23:38:20
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:38:25
+[INFO] Going Up and Continue Test partition = 0.2125 : 2019-05-01 23:38:25
+[INFO] Currently running class PhaverModelTester with partition 0.2687 : 2019-05-01 23:38:25
+[INFO] class PhaverModelBuilder launched, c = 0.48 . At : 2019-05-01 23:38:25
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:38:30
+[INFO] Going Up and Continue Test partition = 0.2687 : 2019-05-01 23:38:30
+[INFO] Currently running class PhaverModelTester with partition 0.2969 : 2019-05-01 23:38:30
+[INFO] class PhaverModelBuilder launched, c = 0.48 . At : 2019-05-01 23:38:30
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:38:36
+[INFO] Going Up and Continue Test partition = 0.2969 : 2019-05-01 23:38:36
+[INFO] Currently running class PhaverModelTester with partition 0.311 : 2019-05-01 23:38:36
+[INFO] class PhaverModelBuilder launched, c = 0.48 . At : 2019-05-01 23:38:36
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:38:41
+[INFO] Going Up and Continue Test partition = 0.311 : 2019-05-01 23:38:41
+[INFO] class PhaverModelTester - exec time : 5460ms : 2019-05-01 23:38:41
+[INFO] Currently running class SpaceExModelTester with partition 1.0 : 2019-05-01 23:38:41
+[INFO] class SpaceExModelBuilder launched, c = 0.48 . At : 2019-05-01 23:38:41
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:38:42
+[INFO] Currently running class SpaceExModelTester with partition 0.1 : 2019-05-01 23:38:42
+[INFO] class SpaceExModelBuilder launched, c = 0.48 . At : 2019-05-01 23:38:42
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:38:42
+[INFO] class SpaceExModelTester - exec time : 47ms : 2019-05-01 23:38:42
+--------------------
+[INFO] Testing Start partition = 0.49 : 2019-05-01 23:38:42
+[INFO] Currently running class PhaverModelTester with partition 1.0 : 2019-05-01 23:38:42
+[INFO] class PhaverModelBuilder launched, c = 0.49 . At : 2019-05-01 23:38:42
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:38:42
+[INFO] Currently running class PhaverModelTester with partition 0.1 : 2019-05-01 23:38:42
+[INFO] class PhaverModelBuilder launched, c = 0.49 . At : 2019-05-01 23:38:42
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:39:00
+[INFO] Currently running class PhaverModelTester with partition 0.55 : 2019-05-01 23:39:00
+[INFO] class PhaverModelBuilder launched, c = 0.49 . At : 2019-05-01 23:39:00
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:39:02
+[INFO] Going Down and Continue Test partition = 0.55 : 2019-05-01 23:39:02
+[INFO] Currently running class PhaverModelTester with partition 0.325 : 2019-05-01 23:39:02
+[INFO] class PhaverModelBuilder launched, c = 0.49 . At : 2019-05-01 23:39:02
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:39:03
+[INFO] Going Down and Continue Test partition = 0.325 : 2019-05-01 23:39:03
+[INFO] Currently running class PhaverModelTester with partition 0.2125 : 2019-05-01 23:39:03
+[INFO] class PhaverModelBuilder launched, c = 0.49 . At : 2019-05-01 23:39:03
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:39:09
+[INFO] Going Up and Continue Test partition = 0.2125 : 2019-05-01 23:39:09
+[INFO] Currently running class PhaverModelTester with partition 0.2687 : 2019-05-01 23:39:09
+[INFO] class PhaverModelBuilder launched, c = 0.49 . At : 2019-05-01 23:39:09
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:39:14
+[INFO] Going Up and Continue Test partition = 0.2687 : 2019-05-01 23:39:14
+[INFO] Currently running class PhaverModelTester with partition 0.2969 : 2019-05-01 23:39:14
+[INFO] class PhaverModelBuilder launched, c = 0.49 . At : 2019-05-01 23:39:14
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:39:20
+[INFO] Going Up and Continue Test partition = 0.2969 : 2019-05-01 23:39:20
+[INFO] Currently running class PhaverModelTester with partition 0.311 : 2019-05-01 23:39:20
+[INFO] class PhaverModelBuilder launched, c = 0.49 . At : 2019-05-01 23:39:20
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:39:25
+[INFO] Going Up and Continue Test partition = 0.311 : 2019-05-01 23:39:25
+[INFO] class PhaverModelTester - exec time : 5572ms : 2019-05-01 23:39:25
+[INFO] Currently running class SpaceExModelTester with partition 1.0 : 2019-05-01 23:39:25
+[INFO] class SpaceExModelBuilder launched, c = 0.49 . At : 2019-05-01 23:39:26
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:39:26
+[INFO] Currently running class SpaceExModelTester with partition 0.1 : 2019-05-01 23:39:26
+[INFO] class SpaceExModelBuilder launched, c = 0.49 . At : 2019-05-01 23:39:26
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:39:26
+[INFO] class SpaceExModelTester - exec time : 27ms : 2019-05-01 23:39:26
+--------------------
+[INFO] Testing Start partition = 0.50 : 2019-05-01 23:39:26
+[INFO] Currently running class PhaverModelTester with partition 1.0 : 2019-05-01 23:39:26
+[INFO] class PhaverModelBuilder launched, c = 0.5 . At : 2019-05-01 23:39:26
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:39:26
+[INFO] Currently running class PhaverModelTester with partition 0.1 : 2019-05-01 23:39:26
+[INFO] class PhaverModelBuilder launched, c = 0.5 . At : 2019-05-01 23:39:26
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:39:45
+[INFO] Currently running class PhaverModelTester with partition 0.55 : 2019-05-01 23:39:45
+[INFO] class PhaverModelBuilder launched, c = 0.5 . At : 2019-05-01 23:39:45
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:39:46
+[INFO] Going Down and Continue Test partition = 0.55 : 2019-05-01 23:39:46
+[INFO] Currently running class PhaverModelTester with partition 0.325 : 2019-05-01 23:39:46
+[INFO] class PhaverModelBuilder launched, c = 0.5 . At : 2019-05-01 23:39:46
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:39:48
+[INFO] Going Down and Continue Test partition = 0.325 : 2019-05-01 23:39:48
+[INFO] Currently running class PhaverModelTester with partition 0.2125 : 2019-05-01 23:39:48
+[INFO] class PhaverModelBuilder launched, c = 0.5 . At : 2019-05-01 23:39:48
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:39:53
+[INFO] Going Up and Continue Test partition = 0.2125 : 2019-05-01 23:39:53
+[INFO] Currently running class PhaverModelTester with partition 0.2687 : 2019-05-01 23:39:53
+[INFO] class PhaverModelBuilder launched, c = 0.5 . At : 2019-05-01 23:39:53
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:39:58
+[INFO] Going Up and Continue Test partition = 0.2687 : 2019-05-01 23:39:58
+[INFO] Currently running class PhaverModelTester with partition 0.2969 : 2019-05-01 23:39:58
+[INFO] class PhaverModelBuilder launched, c = 0.5 . At : 2019-05-01 23:39:58
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:40:04
+[INFO] Going Up and Continue Test partition = 0.2969 : 2019-05-01 23:40:04
+[INFO] Currently running class PhaverModelTester with partition 0.311 : 2019-05-01 23:40:04
+[INFO] class PhaverModelBuilder launched, c = 0.5 . At : 2019-05-01 23:40:04
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:40:09
+[INFO] Going Up and Continue Test partition = 0.311 : 2019-05-01 23:40:09
+[INFO] class PhaverModelTester - exec time : 5356ms : 2019-05-01 23:40:09
+[INFO] Currently running class SpaceExModelTester with partition 1.0 : 2019-05-01 23:40:09
+[INFO] class SpaceExModelBuilder launched, c = 0.5 . At : 2019-05-01 23:40:09
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:40:09
+[INFO] Currently running class SpaceExModelTester with partition 0.1 : 2019-05-01 23:40:09
+[INFO] class SpaceExModelBuilder launched, c = 0.5 . At : 2019-05-01 23:40:09
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:40:09
+[INFO] class SpaceExModelTester - exec time : 11ms : 2019-05-01 23:40:09
+--------------------
+[INFO] Testing Start partition = 0.51 : 2019-05-01 23:40:09
+[INFO] Currently running class PhaverModelTester with partition 1.0 : 2019-05-01 23:40:09
+[INFO] class PhaverModelBuilder launched, c = 0.51 . At : 2019-05-01 23:40:09
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:40:10
+[INFO] Currently running class PhaverModelTester with partition 0.1 : 2019-05-01 23:40:10
+[INFO] class PhaverModelBuilder launched, c = 0.51 . At : 2019-05-01 23:40:10
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:40:30
+[INFO] Currently running class PhaverModelTester with partition 0.55 : 2019-05-01 23:40:30
+[INFO] class PhaverModelBuilder launched, c = 0.51 . At : 2019-05-01 23:40:30
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:40:32
+[INFO] Going Down and Continue Test partition = 0.55 : 2019-05-01 23:40:32
+[INFO] Currently running class PhaverModelTester with partition 0.325 : 2019-05-01 23:40:32
+[INFO] class PhaverModelBuilder launched, c = 0.51 . At : 2019-05-01 23:40:32
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:40:34
+[INFO] Going Down and Continue Test partition = 0.325 : 2019-05-01 23:40:34
+[INFO] Currently running class PhaverModelTester with partition 0.2125 : 2019-05-01 23:40:34
+[INFO] class PhaverModelBuilder launched, c = 0.51 . At : 2019-05-01 23:40:34
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:40:49
+[INFO] Going Up and Continue Test partition = 0.2125 : 2019-05-01 23:40:49
+[INFO] Currently running class PhaverModelTester with partition 0.2687 : 2019-05-01 23:40:49
+[INFO] class PhaverModelBuilder launched, c = 0.51 . At : 2019-05-01 23:40:49
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:40:59
+[INFO] Going Up and Continue Test partition = 0.2687 : 2019-05-01 23:40:59
+[INFO] Currently running class PhaverModelTester with partition 0.2969 : 2019-05-01 23:40:59
+[INFO] class PhaverModelBuilder launched, c = 0.51 . At : 2019-05-01 23:40:59
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:41:05
+[INFO] Going Up and Continue Test partition = 0.2969 : 2019-05-01 23:41:05
+[INFO] Currently running class PhaverModelTester with partition 0.311 : 2019-05-01 23:41:05
+[INFO] class PhaverModelBuilder launched, c = 0.51 . At : 2019-05-01 23:41:05
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:41:11
+[INFO] Going Up and Continue Test partition = 0.311 : 2019-05-01 23:41:11
+[INFO] class PhaverModelTester - exec time : 5895ms : 2019-05-01 23:41:11
+[INFO] Currently running class SpaceExModelTester with partition 1.0 : 2019-05-01 23:41:11
+[INFO] class SpaceExModelBuilder launched, c = 0.51 . At : 2019-05-01 23:41:11
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:41:11
+[INFO] Currently running class SpaceExModelTester with partition 0.1 : 2019-05-01 23:41:11
+[INFO] class SpaceExModelBuilder launched, c = 0.51 . At : 2019-05-01 23:41:11
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:41:11
+[INFO] class SpaceExModelTester - exec time : 55ms : 2019-05-01 23:41:11
+--------------------
+[INFO] Testing Start partition = 0.52 : 2019-05-01 23:41:11
+[INFO] Currently running class PhaverModelTester with partition 1.0 : 2019-05-01 23:41:11
+[INFO] class PhaverModelBuilder launched, c = 0.52 . At : 2019-05-01 23:41:11
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:41:12
+[INFO] Currently running class PhaverModelTester with partition 0.1 : 2019-05-01 23:41:12
+[INFO] class PhaverModelBuilder launched, c = 0.52 . At : 2019-05-01 23:41:12
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:41:32
+[INFO] Currently running class PhaverModelTester with partition 0.55 : 2019-05-01 23:41:32
+[INFO] class PhaverModelBuilder launched, c = 0.52 . At : 2019-05-01 23:41:32
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:41:34
+[INFO] Going Down and Continue Test partition = 0.55 : 2019-05-01 23:41:34
+[INFO] Currently running class PhaverModelTester with partition 0.325 : 2019-05-01 23:41:34
+[INFO] class PhaverModelBuilder launched, c = 0.52 . At : 2019-05-01 23:41:34
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:41:36
+[INFO] Going Down and Continue Test partition = 0.325 : 2019-05-01 23:41:36
+[INFO] Currently running class PhaverModelTester with partition 0.2125 : 2019-05-01 23:41:36
+[INFO] class PhaverModelBuilder launched, c = 0.52 . At : 2019-05-01 23:41:36
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:41:42
+[INFO] Going Up and Continue Test partition = 0.2125 : 2019-05-01 23:41:42
+[INFO] Currently running class PhaverModelTester with partition 0.2687 : 2019-05-01 23:41:42
+[INFO] class PhaverModelBuilder launched, c = 0.52 . At : 2019-05-01 23:41:42
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:41:47
+[INFO] Going Up and Continue Test partition = 0.2687 : 2019-05-01 23:41:47
+[INFO] Currently running class PhaverModelTester with partition 0.2969 : 2019-05-01 23:41:47
+[INFO] class PhaverModelBuilder launched, c = 0.52 . At : 2019-05-01 23:41:47
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:41:53
+[INFO] Going Up and Continue Test partition = 0.2969 : 2019-05-01 23:41:53
+[INFO] Currently running class PhaverModelTester with partition 0.311 : 2019-05-01 23:41:53
+[INFO] class PhaverModelBuilder launched, c = 0.52 . At : 2019-05-01 23:41:53
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:41:59
+[INFO] Going Up and Continue Test partition = 0.311 : 2019-05-01 23:41:59
+[INFO] class PhaverModelTester - exec time : 5861ms : 2019-05-01 23:41:59
+[INFO] Currently running class SpaceExModelTester with partition 1.0 : 2019-05-01 23:41:59
+[INFO] class SpaceExModelBuilder launched, c = 0.52 . At : 2019-05-01 23:41:59
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:41:59
+[INFO] Currently running class SpaceExModelTester with partition 0.1 : 2019-05-01 23:41:59
+[INFO] class SpaceExModelBuilder launched, c = 0.52 . At : 2019-05-01 23:41:59
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:41:59
+[INFO] class SpaceExModelTester - exec time : 25ms : 2019-05-01 23:41:59
+--------------------
+[INFO] Testing Start partition = 0.53 : 2019-05-01 23:41:59
+[INFO] Currently running class PhaverModelTester with partition 1.0 : 2019-05-01 23:41:59
+[INFO] class PhaverModelBuilder launched, c = 0.53 . At : 2019-05-01 23:41:59
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:42:00
+[INFO] Currently running class PhaverModelTester with partition 0.1 : 2019-05-01 23:42:00
+[INFO] class PhaverModelBuilder launched, c = 0.53 . At : 2019-05-01 23:42:00
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:42:22
+[INFO] Currently running class PhaverModelTester with partition 0.55 : 2019-05-01 23:42:22
+[INFO] class PhaverModelBuilder launched, c = 0.53 . At : 2019-05-01 23:42:22
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:42:23
+[INFO] Going Down and Continue Test partition = 0.55 : 2019-05-01 23:42:23
+[INFO] Currently running class PhaverModelTester with partition 0.325 : 2019-05-01 23:42:23
+[INFO] class PhaverModelBuilder launched, c = 0.53 . At : 2019-05-01 23:42:23
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:42:25
+[INFO] Going Down and Continue Test partition = 0.325 : 2019-05-01 23:42:25
+[INFO] Currently running class PhaverModelTester with partition 0.2125 : 2019-05-01 23:42:25
+[INFO] class PhaverModelBuilder launched, c = 0.53 . At : 2019-05-01 23:42:25
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:42:31
+[INFO] Going Up and Continue Test partition = 0.2125 : 2019-05-01 23:42:31
+[INFO] Currently running class PhaverModelTester with partition 0.2687 : 2019-05-01 23:42:31
+[INFO] class PhaverModelBuilder launched, c = 0.53 . At : 2019-05-01 23:42:31
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:42:37
+[INFO] Going Up and Continue Test partition = 0.2687 : 2019-05-01 23:42:37
+[INFO] Currently running class PhaverModelTester with partition 0.2969 : 2019-05-01 23:42:37
+[INFO] class PhaverModelBuilder launched, c = 0.53 . At : 2019-05-01 23:42:38
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:42:44
+[INFO] Going Up and Continue Test partition = 0.2969 : 2019-05-01 23:42:44
+[INFO] Currently running class PhaverModelTester with partition 0.311 : 2019-05-01 23:42:44
+[INFO] class PhaverModelBuilder launched, c = 0.53 . At : 2019-05-01 23:42:44
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:42:50
+[INFO] Going Up and Continue Test partition = 0.311 : 2019-05-01 23:42:50
+[INFO] class PhaverModelTester - exec time : 6299ms : 2019-05-01 23:42:50
+[INFO] Currently running class SpaceExModelTester with partition 1.0 : 2019-05-01 23:42:50
+[INFO] class SpaceExModelBuilder launched, c = 0.53 . At : 2019-05-01 23:42:50
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:42:50
+[INFO] Currently running class SpaceExModelTester with partition 0.1 : 2019-05-01 23:42:50
+[INFO] class SpaceExModelBuilder launched, c = 0.53 . At : 2019-05-01 23:42:50
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:42:50
+[INFO] class SpaceExModelTester - exec time : 12ms : 2019-05-01 23:42:50
+--------------------
+[INFO] Testing Start partition = 0.54 : 2019-05-01 23:42:50
+[INFO] Currently running class PhaverModelTester with partition 1.0 : 2019-05-01 23:42:50
+[INFO] class PhaverModelBuilder launched, c = 0.54 . At : 2019-05-01 23:42:50
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:42:51
+[INFO] Currently running class PhaverModelTester with partition 0.1 : 2019-05-01 23:42:51
+[INFO] class PhaverModelBuilder launched, c = 0.54 . At : 2019-05-01 23:42:51
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:43:18
+[INFO] Currently running class PhaverModelTester with partition 0.55 : 2019-05-01 23:43:18
+[INFO] class PhaverModelBuilder launched, c = 0.54 . At : 2019-05-01 23:43:18
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:43:20
+[INFO] Going Down and Continue Test partition = 0.55 : 2019-05-01 23:43:20
+[INFO] Currently running class PhaverModelTester with partition 0.325 : 2019-05-01 23:43:20
+[INFO] class PhaverModelBuilder launched, c = 0.54 . At : 2019-05-01 23:43:20
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:43:21
+[INFO] Going Down and Continue Test partition = 0.325 : 2019-05-01 23:43:21
+[INFO] Currently running class PhaverModelTester with partition 0.2125 : 2019-05-01 23:43:21
+[INFO] class PhaverModelBuilder launched, c = 0.54 . At : 2019-05-01 23:43:21
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:43:28
+[INFO] Going Up and Continue Test partition = 0.2125 : 2019-05-01 23:43:28
+[INFO] Currently running class PhaverModelTester with partition 0.2687 : 2019-05-01 23:43:28
+[INFO] class PhaverModelBuilder launched, c = 0.54 . At : 2019-05-01 23:43:28
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:43:35
+[INFO] Going Up and Continue Test partition = 0.2687 : 2019-05-01 23:43:35
+[INFO] Currently running class PhaverModelTester with partition 0.2969 : 2019-05-01 23:43:35
+[INFO] class PhaverModelBuilder launched, c = 0.54 . At : 2019-05-01 23:43:35
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:43:58
+[INFO] Going Up and Continue Test partition = 0.2969 : 2019-05-01 23:43:58
+[INFO] Currently running class PhaverModelTester with partition 0.311 : 2019-05-01 23:43:58
+[INFO] class PhaverModelBuilder launched, c = 0.54 . At : 2019-05-01 23:43:58
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:44:06
+[INFO] Going Up and Continue Test partition = 0.311 : 2019-05-01 23:44:06
+[INFO] class PhaverModelTester - exec time : 7112ms : 2019-05-01 23:44:06
+[INFO] Currently running class SpaceExModelTester with partition 1.0 : 2019-05-01 23:44:06
+[INFO] class SpaceExModelBuilder launched, c = 0.54 . At : 2019-05-01 23:44:06
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:44:06
+[INFO] Currently running class SpaceExModelTester with partition 0.1 : 2019-05-01 23:44:06
+[INFO] class SpaceExModelBuilder launched, c = 0.54 . At : 2019-05-01 23:44:06
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:44:06
+[INFO] class SpaceExModelTester - exec time : 16ms : 2019-05-01 23:44:06
+--------------------
+[INFO] Testing Start partition = 0.55 : 2019-05-01 23:44:06
+[INFO] Currently running class PhaverModelTester with partition 1.0 : 2019-05-01 23:44:06
+[INFO] class PhaverModelBuilder launched, c = 0.55 . At : 2019-05-01 23:44:06
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:44:06
+[INFO] Currently running class PhaverModelTester with partition 0.1 : 2019-05-01 23:44:06
+[INFO] class PhaverModelBuilder launched, c = 0.55 . At : 2019-05-01 23:44:06
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:44:30
+[INFO] Currently running class PhaverModelTester with partition 0.55 : 2019-05-01 23:44:30
+[INFO] class PhaverModelBuilder launched, c = 0.55 . At : 2019-05-01 23:44:30
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:44:32
+[INFO] Going Down and Continue Test partition = 0.55 : 2019-05-01 23:44:32
+[INFO] Currently running class PhaverModelTester with partition 0.325 : 2019-05-01 23:44:32
+[INFO] class PhaverModelBuilder launched, c = 0.55 . At : 2019-05-01 23:44:32
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:44:33
+[INFO] Going Down and Continue Test partition = 0.325 : 2019-05-01 23:44:33
+[INFO] Currently running class PhaverModelTester with partition 0.2125 : 2019-05-01 23:44:33
+[INFO] class PhaverModelBuilder launched, c = 0.55 . At : 2019-05-01 23:44:33
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:44:41
+[INFO] Going Up and Continue Test partition = 0.2125 : 2019-05-01 23:44:41
+[INFO] Currently running class PhaverModelTester with partition 0.2687 : 2019-05-01 23:44:41
+[INFO] class PhaverModelBuilder launched, c = 0.55 . At : 2019-05-01 23:44:41
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:44:48
+[INFO] Going Up and Continue Test partition = 0.2687 : 2019-05-01 23:44:48
+[INFO] Currently running class PhaverModelTester with partition 0.2969 : 2019-05-01 23:44:48
+[INFO] class PhaverModelBuilder launched, c = 0.55 . At : 2019-05-01 23:44:48
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:44:56
+[INFO] Going Up and Continue Test partition = 0.2969 : 2019-05-01 23:44:56
+[INFO] Currently running class PhaverModelTester with partition 0.311 : 2019-05-01 23:44:56
+[INFO] class PhaverModelBuilder launched, c = 0.55 . At : 2019-05-01 23:44:56
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:45:03
+[INFO] Going Up and Continue Test partition = 0.311 : 2019-05-01 23:45:03
+[INFO] class PhaverModelTester - exec time : 7384ms : 2019-05-01 23:45:03
+[INFO] Currently running class SpaceExModelTester with partition 1.0 : 2019-05-01 23:45:03
+[INFO] class SpaceExModelBuilder launched, c = 0.55 . At : 2019-05-01 23:45:03
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:45:03
+[INFO] Currently running class SpaceExModelTester with partition 0.1 : 2019-05-01 23:45:03
+[INFO] class SpaceExModelBuilder launched, c = 0.55 . At : 2019-05-01 23:45:03
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:45:03
+[INFO] class SpaceExModelTester - exec time : 17ms : 2019-05-01 23:45:03
+--------------------
+[INFO] Testing Start partition = 0.56 : 2019-05-01 23:45:03
+[INFO] Currently running class PhaverModelTester with partition 1.0 : 2019-05-01 23:45:03
+[INFO] class PhaverModelBuilder launched, c = 0.56 . At : 2019-05-01 23:45:03
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:45:04
+[INFO] Currently running class PhaverModelTester with partition 0.1 : 2019-05-01 23:45:04
+[INFO] class PhaverModelBuilder launched, c = 0.56 . At : 2019-05-01 23:45:04
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:45:28
+[INFO] Currently running class PhaverModelTester with partition 0.55 : 2019-05-01 23:45:28
+[INFO] class PhaverModelBuilder launched, c = 0.56 . At : 2019-05-01 23:45:28
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:45:30
+[INFO] Going Down and Continue Test partition = 0.55 : 2019-05-01 23:45:30
+[INFO] Currently running class PhaverModelTester with partition 0.325 : 2019-05-01 23:45:30
+[INFO] class PhaverModelBuilder launched, c = 0.56 . At : 2019-05-01 23:45:30
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:45:32
+[INFO] Going Down and Continue Test partition = 0.325 : 2019-05-01 23:45:32
+[INFO] Currently running class PhaverModelTester with partition 0.2125 : 2019-05-01 23:45:32
+[INFO] class PhaverModelBuilder launched, c = 0.56 . At : 2019-05-01 23:45:32
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:45:39
+[INFO] Going Up and Continue Test partition = 0.2125 : 2019-05-01 23:45:39
+[INFO] Currently running class PhaverModelTester with partition 0.2687 : 2019-05-01 23:45:39
+[INFO] class PhaverModelBuilder launched, c = 0.56 . At : 2019-05-01 23:45:39
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:45:46
+[INFO] Going Up and Continue Test partition = 0.2687 : 2019-05-01 23:45:46
+[INFO] Currently running class PhaverModelTester with partition 0.2969 : 2019-05-01 23:45:46
+[INFO] class PhaverModelBuilder launched, c = 0.56 . At : 2019-05-01 23:45:46
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:45:53
+[INFO] Going Up and Continue Test partition = 0.2969 : 2019-05-01 23:45:53
+[INFO] Currently running class PhaverModelTester with partition 0.311 : 2019-05-01 23:45:53
+[INFO] class PhaverModelBuilder launched, c = 0.56 . At : 2019-05-01 23:45:53
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:46:00
+[INFO] Going Up and Continue Test partition = 0.311 : 2019-05-01 23:46:00
+[INFO] class PhaverModelTester - exec time : 7105ms : 2019-05-01 23:46:00
+[INFO] Currently running class SpaceExModelTester with partition 1.0 : 2019-05-01 23:46:00
+[INFO] class SpaceExModelBuilder launched, c = 0.56 . At : 2019-05-01 23:46:00
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:46:00
+[INFO] Currently running class SpaceExModelTester with partition 0.1 : 2019-05-01 23:46:00
+[INFO] class SpaceExModelBuilder launched, c = 0.56 . At : 2019-05-01 23:46:00
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:46:00
+[INFO] class SpaceExModelTester - exec time : 18ms : 2019-05-01 23:46:00
+--------------------
+[INFO] Testing Start partition = 0.57 : 2019-05-01 23:46:00
+[INFO] Currently running class PhaverModelTester with partition 1.0 : 2019-05-01 23:46:00
+[INFO] class PhaverModelBuilder launched, c = 0.57 . At : 2019-05-01 23:46:00
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:46:01
+[INFO] Currently running class PhaverModelTester with partition 0.1 : 2019-05-01 23:46:01
+[INFO] class PhaverModelBuilder launched, c = 0.57 . At : 2019-05-01 23:46:01
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:46:28
+[INFO] Currently running class PhaverModelTester with partition 0.55 : 2019-05-01 23:46:28
+[INFO] class PhaverModelBuilder launched, c = 0.57 . At : 2019-05-01 23:46:28
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:46:30
+[INFO] Going Down and Continue Test partition = 0.55 : 2019-05-01 23:46:30
+[INFO] Currently running class PhaverModelTester with partition 0.325 : 2019-05-01 23:46:30
+[INFO] class PhaverModelBuilder launched, c = 0.57 . At : 2019-05-01 23:46:30
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:46:32
+[INFO] Going Down and Continue Test partition = 0.325 : 2019-05-01 23:46:32
+[INFO] Currently running class PhaverModelTester with partition 0.2125 : 2019-05-01 23:46:32
+[INFO] class PhaverModelBuilder launched, c = 0.57 . At : 2019-05-01 23:46:32
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:46:39
+[INFO] Going Up and Continue Test partition = 0.2125 : 2019-05-01 23:46:39
+[INFO] Currently running class PhaverModelTester with partition 0.2687 : 2019-05-01 23:46:39
+[INFO] class PhaverModelBuilder launched, c = 0.57 . At : 2019-05-01 23:46:39
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:46:47
+[INFO] Going Up and Continue Test partition = 0.2687 : 2019-05-01 23:46:47
+[INFO] Currently running class PhaverModelTester with partition 0.2969 : 2019-05-01 23:46:47
+[INFO] class PhaverModelBuilder launched, c = 0.57 . At : 2019-05-01 23:46:47
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:46:54
+[INFO] Going Up and Continue Test partition = 0.2969 : 2019-05-01 23:46:54
+[INFO] Currently running class PhaverModelTester with partition 0.311 : 2019-05-01 23:46:54
+[INFO] class PhaverModelBuilder launched, c = 0.57 . At : 2019-05-01 23:46:54
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:47:02
+[INFO] Going Up and Continue Test partition = 0.311 : 2019-05-01 23:47:02
+[INFO] class PhaverModelTester - exec time : 7661ms : 2019-05-01 23:47:02
+[INFO] Currently running class SpaceExModelTester with partition 1.0 : 2019-05-01 23:47:02
+[INFO] class SpaceExModelBuilder launched, c = 0.57 . At : 2019-05-01 23:47:02
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:47:02
+[INFO] Currently running class SpaceExModelTester with partition 0.1 : 2019-05-01 23:47:02
+[INFO] class SpaceExModelBuilder launched, c = 0.57 . At : 2019-05-01 23:47:02
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:47:02
+[INFO] class SpaceExModelTester - exec time : 20ms : 2019-05-01 23:47:02
+--------------------
+[INFO] Testing Start partition = 0.58 : 2019-05-01 23:47:02
+[INFO] Currently running class PhaverModelTester with partition 1.0 : 2019-05-01 23:47:02
+[INFO] class PhaverModelBuilder launched, c = 0.58 . At : 2019-05-01 23:47:02
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:47:03
+[INFO] Currently running class PhaverModelTester with partition 0.1 : 2019-05-01 23:47:03
+[INFO] class PhaverModelBuilder launched, c = 0.58 . At : 2019-05-01 23:47:03
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:47:31
+[INFO] Currently running class PhaverModelTester with partition 0.55 : 2019-05-01 23:47:31
+[INFO] class PhaverModelBuilder launched, c = 0.58 . At : 2019-05-01 23:47:31
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:47:33
+[INFO] Going Down and Continue Test partition = 0.55 : 2019-05-01 23:47:33
+[INFO] Currently running class PhaverModelTester with partition 0.325 : 2019-05-01 23:47:33
+[INFO] class PhaverModelBuilder launched, c = 0.58 . At : 2019-05-01 23:47:33
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:47:35
+[INFO] Going Down and Continue Test partition = 0.325 : 2019-05-01 23:47:35
+[INFO] Currently running class PhaverModelTester with partition 0.2125 : 2019-05-01 23:47:35
+[INFO] class PhaverModelBuilder launched, c = 0.58 . At : 2019-05-01 23:47:35
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:47:42
+[INFO] Going Up and Continue Test partition = 0.2125 : 2019-05-01 23:47:42
+[INFO] Currently running class PhaverModelTester with partition 0.2687 : 2019-05-01 23:47:42
+[INFO] class PhaverModelBuilder launched, c = 0.58 . At : 2019-05-01 23:47:42
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:48:06
+[INFO] Going Up and Continue Test partition = 0.2687 : 2019-05-01 23:48:06
+[INFO] Currently running class PhaverModelTester with partition 0.2969 : 2019-05-01 23:48:06
+[INFO] class PhaverModelBuilder launched, c = 0.58 . At : 2019-05-01 23:48:06
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:48:13
+[INFO] Going Up and Continue Test partition = 0.2969 : 2019-05-01 23:48:13
+[INFO] Currently running class PhaverModelTester with partition 0.311 : 2019-05-01 23:48:13
+[INFO] class PhaverModelBuilder launched, c = 0.58 . At : 2019-05-01 23:48:13
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:48:21
+[INFO] Going Up and Continue Test partition = 0.311 : 2019-05-01 23:48:21
+[INFO] class PhaverModelTester - exec time : 7154ms : 2019-05-01 23:48:21
+[INFO] Currently running class SpaceExModelTester with partition 1.0 : 2019-05-01 23:48:21
+[INFO] class SpaceExModelBuilder launched, c = 0.58 . At : 2019-05-01 23:48:21
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:48:21
+[INFO] Currently running class SpaceExModelTester with partition 0.1 : 2019-05-01 23:48:21
+[INFO] class SpaceExModelBuilder launched, c = 0.58 . At : 2019-05-01 23:48:21
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:48:21
+[INFO] class SpaceExModelTester - exec time : 19ms : 2019-05-01 23:48:21
+--------------------
+[INFO] Testing Start partition = 0.59 : 2019-05-01 23:48:21
+[INFO] Currently running class PhaverModelTester with partition 1.0 : 2019-05-01 23:48:21
+[INFO] class PhaverModelBuilder launched, c = 0.59 . At : 2019-05-01 23:48:21
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:48:21
+[INFO] Currently running class PhaverModelTester with partition 0.1 : 2019-05-01 23:48:21
+[INFO] class PhaverModelBuilder launched, c = 0.59 . At : 2019-05-01 23:48:21
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:48:50
+[INFO] Currently running class PhaverModelTester with partition 0.55 : 2019-05-01 23:48:50
+[INFO] class PhaverModelBuilder launched, c = 0.59 . At : 2019-05-01 23:48:50
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:48:52
+[INFO] Going Down and Continue Test partition = 0.55 : 2019-05-01 23:48:52
+[INFO] Currently running class PhaverModelTester with partition 0.325 : 2019-05-01 23:48:52
+[INFO] class PhaverModelBuilder launched, c = 0.59 . At : 2019-05-01 23:48:52
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:48:54
+[INFO] Going Down and Continue Test partition = 0.325 : 2019-05-01 23:48:54
+[INFO] Currently running class PhaverModelTester with partition 0.2125 : 2019-05-01 23:48:54
+[INFO] class PhaverModelBuilder launched, c = 0.59 . At : 2019-05-01 23:48:54
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:49:01
+[INFO] Going Up and Continue Test partition = 0.2125 : 2019-05-01 23:49:01
+[INFO] Currently running class PhaverModelTester with partition 0.2687 : 2019-05-01 23:49:01
+[INFO] class PhaverModelBuilder launched, c = 0.59 . At : 2019-05-01 23:49:01
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:49:09
+[INFO] Going Up and Continue Test partition = 0.2687 : 2019-05-01 23:49:09
+[INFO] Currently running class PhaverModelTester with partition 0.2969 : 2019-05-01 23:49:09
+[INFO] class PhaverModelBuilder launched, c = 0.59 . At : 2019-05-01 23:49:09
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:49:16
+[INFO] Going Up and Continue Test partition = 0.2969 : 2019-05-01 23:49:16
+[INFO] Currently running class PhaverModelTester with partition 0.311 : 2019-05-01 23:49:16
+[INFO] class PhaverModelBuilder launched, c = 0.59 . At : 2019-05-01 23:49:16
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:49:24
+[INFO] Going Up and Continue Test partition = 0.311 : 2019-05-01 23:49:24
+[INFO] class PhaverModelTester - exec time : 7532ms : 2019-05-01 23:49:24
+[INFO] Currently running class SpaceExModelTester with partition 1.0 : 2019-05-01 23:49:24
+[INFO] class SpaceExModelBuilder launched, c = 0.59 . At : 2019-05-01 23:49:24
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:49:24
+[INFO] Currently running class SpaceExModelTester with partition 0.1 : 2019-05-01 23:49:24
+[INFO] class SpaceExModelBuilder launched, c = 0.59 . At : 2019-05-01 23:49:24
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:49:24
+[INFO] class SpaceExModelTester - exec time : 25ms : 2019-05-01 23:49:24
+--------------------
+[INFO] Testing Start partition = 0.60 : 2019-05-01 23:49:24
+[INFO] Currently running class PhaverModelTester with partition 1.0 : 2019-05-01 23:49:24
+[INFO] class PhaverModelBuilder launched, c = 0.6 . At : 2019-05-01 23:49:24
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:49:25
+[INFO] Currently running class PhaverModelTester with partition 0.1 : 2019-05-01 23:49:25
+[INFO] class PhaverModelBuilder launched, c = 0.6 . At : 2019-05-01 23:49:25
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:49:56
+[INFO] Currently running class PhaverModelTester with partition 0.55 : 2019-05-01 23:49:56
+[INFO] class PhaverModelBuilder launched, c = 0.6 . At : 2019-05-01 23:49:56
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:49:58
+[INFO] Going Down and Continue Test partition = 0.55 : 2019-05-01 23:49:58
+[INFO] Currently running class PhaverModelTester with partition 0.325 : 2019-05-01 23:49:58
+[INFO] class PhaverModelBuilder launched, c = 0.6 . At : 2019-05-01 23:49:58
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:50:00
+[INFO] Going Down and Continue Test partition = 0.325 : 2019-05-01 23:50:00
+[INFO] Currently running class PhaverModelTester with partition 0.2125 : 2019-05-01 23:50:00
+[INFO] class PhaverModelBuilder launched, c = 0.6 . At : 2019-05-01 23:50:00
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:50:07
+[INFO] Going Up and Continue Test partition = 0.2125 : 2019-05-01 23:50:07
+[INFO] Currently running class PhaverModelTester with partition 0.2687 : 2019-05-01 23:50:07
+[INFO] class PhaverModelBuilder launched, c = 0.6 . At : 2019-05-01 23:50:07
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:50:15
+[INFO] Going Up and Continue Test partition = 0.2687 : 2019-05-01 23:50:15
+[INFO] Currently running class PhaverModelTester with partition 0.2969 : 2019-05-01 23:50:15
+[INFO] class PhaverModelBuilder launched, c = 0.6 . At : 2019-05-01 23:50:15
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:50:23
+[INFO] Going Up and Continue Test partition = 0.2969 : 2019-05-01 23:50:23
+[INFO] Currently running class PhaverModelTester with partition 0.311 : 2019-05-01 23:50:23
+[INFO] class PhaverModelBuilder launched, c = 0.6 . At : 2019-05-01 23:50:23
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:50:30
+[INFO] Going Up and Continue Test partition = 0.311 : 2019-05-01 23:50:30
+[INFO] class PhaverModelTester - exec time : 7677ms : 2019-05-01 23:50:30
+[INFO] Currently running class SpaceExModelTester with partition 1.0 : 2019-05-01 23:50:30
+[INFO] class SpaceExModelBuilder launched, c = 0.6 . At : 2019-05-01 23:50:30
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:50:30
+[INFO] Currently running class SpaceExModelTester with partition 0.1 : 2019-05-01 23:50:30
+[INFO] class SpaceExModelBuilder launched, c = 0.6 . At : 2019-05-01 23:50:30
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:50:30
+[INFO] class SpaceExModelTester - exec time : 52ms : 2019-05-01 23:50:30
+--------------------
+[INFO] Testing Start partition = 0.61 : 2019-05-01 23:50:30
+[INFO] Currently running class PhaverModelTester with partition 1.0 : 2019-05-01 23:50:30
+[INFO] class PhaverModelBuilder launched, c = 0.61 . At : 2019-05-01 23:50:30
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:50:31
+[INFO] Currently running class PhaverModelTester with partition 0.1 : 2019-05-01 23:50:31
+[INFO] class PhaverModelBuilder launched, c = 0.61 . At : 2019-05-01 23:50:31
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:51:03
+[INFO] Currently running class PhaverModelTester with partition 0.55 : 2019-05-01 23:51:03
+[INFO] class PhaverModelBuilder launched, c = 0.61 . At : 2019-05-01 23:51:03
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:51:05
+[INFO] Going Down and Continue Test partition = 0.55 : 2019-05-01 23:51:05
+[INFO] Currently running class PhaverModelTester with partition 0.325 : 2019-05-01 23:51:05
+[INFO] class PhaverModelBuilder launched, c = 0.61 . At : 2019-05-01 23:51:05
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:51:07
+[INFO] Going Down and Continue Test partition = 0.325 : 2019-05-01 23:51:07
+[INFO] Currently running class PhaverModelTester with partition 0.2125 : 2019-05-01 23:51:07
+[INFO] class PhaverModelBuilder launched, c = 0.61 . At : 2019-05-01 23:51:07
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:51:31
+[INFO] Going Up and Continue Test partition = 0.2125 : 2019-05-01 23:51:31
+[INFO] Currently running class PhaverModelTester with partition 0.2687 : 2019-05-01 23:51:31
+[INFO] class PhaverModelBuilder launched, c = 0.61 . At : 2019-05-01 23:51:31
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:51:40
+[INFO] Going Up and Continue Test partition = 0.2687 : 2019-05-01 23:51:40
+[INFO] Currently running class PhaverModelTester with partition 0.2969 : 2019-05-01 23:51:40
+[INFO] class PhaverModelBuilder launched, c = 0.61 . At : 2019-05-01 23:51:40
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:51:49
+[INFO] Going Up and Continue Test partition = 0.2969 : 2019-05-01 23:51:49
+[INFO] Currently running class PhaverModelTester with partition 0.311 : 2019-05-01 23:51:49
+[INFO] class PhaverModelBuilder launched, c = 0.61 . At : 2019-05-01 23:51:49
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:51:57
+[INFO] Going Up and Continue Test partition = 0.311 : 2019-05-01 23:51:57
+[INFO] class PhaverModelTester - exec time : 8862ms : 2019-05-01 23:51:57
+[INFO] Currently running class SpaceExModelTester with partition 1.0 : 2019-05-01 23:51:57
+[INFO] class SpaceExModelBuilder launched, c = 0.61 . At : 2019-05-01 23:51:57
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:51:57
+[INFO] Currently running class SpaceExModelTester with partition 0.1 : 2019-05-01 23:51:57
+[INFO] class SpaceExModelBuilder launched, c = 0.61 . At : 2019-05-01 23:51:57
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:51:58
+[INFO] class SpaceExModelTester - exec time : 36ms : 2019-05-01 23:51:58
+--------------------
+[INFO] Testing Start partition = 0.62 : 2019-05-01 23:51:58
+[INFO] Currently running class PhaverModelTester with partition 1.0 : 2019-05-01 23:51:58
+[INFO] class PhaverModelBuilder launched, c = 0.62 . At : 2019-05-01 23:51:58
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:51:58
+[INFO] Currently running class PhaverModelTester with partition 0.1 : 2019-05-01 23:51:58
+[INFO] class PhaverModelBuilder launched, c = 0.62 . At : 2019-05-01 23:51:58
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:52:32
+[INFO] Currently running class PhaverModelTester with partition 0.55 : 2019-05-01 23:52:32
+[INFO] class PhaverModelBuilder launched, c = 0.62 . At : 2019-05-01 23:52:32
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:52:34
+[INFO] Going Down and Continue Test partition = 0.55 : 2019-05-01 23:52:34
+[INFO] Currently running class PhaverModelTester with partition 0.325 : 2019-05-01 23:52:34
+[INFO] class PhaverModelBuilder launched, c = 0.62 . At : 2019-05-01 23:52:34
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:52:36
+[INFO] Going Down and Continue Test partition = 0.325 : 2019-05-01 23:52:36
+[INFO] Currently running class PhaverModelTester with partition 0.2125 : 2019-05-01 23:52:36
+[INFO] class PhaverModelBuilder launched, c = 0.62 . At : 2019-05-01 23:52:36
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:52:45
+[INFO] Going Up and Continue Test partition = 0.2125 : 2019-05-01 23:52:45
+[INFO] Currently running class PhaverModelTester with partition 0.2687 : 2019-05-01 23:52:45
+[INFO] class PhaverModelBuilder launched, c = 0.62 . At : 2019-05-01 23:52:45
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:52:55
+[INFO] Going Up and Continue Test partition = 0.2687 : 2019-05-01 23:52:55
+[INFO] Currently running class PhaverModelTester with partition 0.2969 : 2019-05-01 23:52:55
+[INFO] class PhaverModelBuilder launched, c = 0.62 . At : 2019-05-01 23:52:55
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:53:04
+[INFO] Going Up and Continue Test partition = 0.2969 : 2019-05-01 23:53:04
+[INFO] Currently running class PhaverModelTester with partition 0.311 : 2019-05-01 23:53:04
+[INFO] class PhaverModelBuilder launched, c = 0.62 . At : 2019-05-01 23:53:04
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:53:13
+[INFO] Going Up and Continue Test partition = 0.311 : 2019-05-01 23:53:13
+[INFO] class PhaverModelTester - exec time : 9388ms : 2019-05-01 23:53:13
+[INFO] Currently running class SpaceExModelTester with partition 1.0 : 2019-05-01 23:53:13
+[INFO] class SpaceExModelBuilder launched, c = 0.62 . At : 2019-05-01 23:53:13
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:53:13
+[INFO] Currently running class SpaceExModelTester with partition 0.1 : 2019-05-01 23:53:13
+[INFO] class SpaceExModelBuilder launched, c = 0.62 . At : 2019-05-01 23:53:13
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:53:13
+[INFO] class SpaceExModelTester - exec time : 23ms : 2019-05-01 23:53:13
+--------------------
+[INFO] Testing Start partition = 0.63 : 2019-05-01 23:53:13
+[INFO] Currently running class PhaverModelTester with partition 1.0 : 2019-05-01 23:53:13
+[INFO] class PhaverModelBuilder launched, c = 0.63 . At : 2019-05-01 23:53:13
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:53:14
+[INFO] Currently running class PhaverModelTester with partition 0.1 : 2019-05-01 23:53:14
+[INFO] class PhaverModelBuilder launched, c = 0.63 . At : 2019-05-01 23:53:14
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:53:49
+[INFO] Currently running class PhaverModelTester with partition 0.55 : 2019-05-01 23:53:49
+[INFO] class PhaverModelBuilder launched, c = 0.63 . At : 2019-05-01 23:53:49
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:53:51
+[INFO] Going Down and Continue Test partition = 0.55 : 2019-05-01 23:53:51
+[INFO] Currently running class PhaverModelTester with partition 0.325 : 2019-05-01 23:53:51
+[INFO] class PhaverModelBuilder launched, c = 0.63 . At : 2019-05-01 23:53:51
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:53:53
+[INFO] Going Down and Continue Test partition = 0.325 : 2019-05-01 23:53:53
+[INFO] Currently running class PhaverModelTester with partition 0.2125 : 2019-05-01 23:53:53
+[INFO] class PhaverModelBuilder launched, c = 0.63 . At : 2019-05-01 23:53:53
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:54:02
+[INFO] Going Up and Continue Test partition = 0.2125 : 2019-05-01 23:54:02
+[INFO] Currently running class PhaverModelTester with partition 0.2687 : 2019-05-01 23:54:02
+[INFO] class PhaverModelBuilder launched, c = 0.63 . At : 2019-05-01 23:54:02
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:54:12
+[INFO] Going Up and Continue Test partition = 0.2687 : 2019-05-01 23:54:12
+[INFO] Currently running class PhaverModelTester with partition 0.2969 : 2019-05-01 23:54:12
+[INFO] class PhaverModelBuilder launched, c = 0.63 . At : 2019-05-01 23:54:12
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:54:21
+[INFO] Going Up and Continue Test partition = 0.2969 : 2019-05-01 23:54:21
+[INFO] Currently running class PhaverModelTester with partition 0.311 : 2019-05-01 23:54:21
+[INFO] class PhaverModelBuilder launched, c = 0.63 . At : 2019-05-01 23:54:21
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:54:31
+[INFO] Going Up and Continue Test partition = 0.311 : 2019-05-01 23:54:31
+[INFO] class PhaverModelTester - exec time : 9587ms : 2019-05-01 23:54:31
+[INFO] Currently running class SpaceExModelTester with partition 1.0 : 2019-05-01 23:54:31
+[INFO] class SpaceExModelBuilder launched, c = 0.63 . At : 2019-05-01 23:54:31
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:54:31
+[INFO] Currently running class SpaceExModelTester with partition 0.1 : 2019-05-01 23:54:31
+[INFO] class SpaceExModelBuilder launched, c = 0.63 . At : 2019-05-01 23:54:31
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:54:31
+[INFO] class SpaceExModelTester - exec time : 15ms : 2019-05-01 23:54:31
+--------------------
+[INFO] Testing Start partition = 0.64 : 2019-05-01 23:54:31
+[INFO] Currently running class PhaverModelTester with partition 1.0 : 2019-05-01 23:54:31
+[INFO] class PhaverModelBuilder launched, c = 0.64 . At : 2019-05-01 23:54:31
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:54:32
+[INFO] Currently running class PhaverModelTester with partition 0.1 : 2019-05-01 23:54:32
+[INFO] class PhaverModelBuilder launched, c = 0.64 . At : 2019-05-01 23:54:32
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:55:13
+[INFO] Currently running class PhaverModelTester with partition 0.55 : 2019-05-01 23:55:13
+[INFO] class PhaverModelBuilder launched, c = 0.64 . At : 2019-05-01 23:55:13
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:55:22
+[INFO] Going Down and Continue Test partition = 0.55 : 2019-05-01 23:55:22
+[INFO] Currently running class PhaverModelTester with partition 0.325 : 2019-05-01 23:55:22
+[INFO] class PhaverModelBuilder launched, c = 0.64 . At : 2019-05-01 23:55:22
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:55:29
+[INFO] Going Down and Continue Test partition = 0.325 : 2019-05-01 23:55:29
+[INFO] Currently running class PhaverModelTester with partition 0.2125 : 2019-05-01 23:55:29
+[INFO] class PhaverModelBuilder launched, c = 0.64 . At : 2019-05-01 23:55:30
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:55:37
+[INFO] Going Down and Continue Test partition = 0.2125 : 2019-05-01 23:55:37
+[INFO] Currently running class PhaverModelTester with partition 0.1562 : 2019-05-01 23:55:37
+[INFO] class PhaverModelBuilder launched, c = 0.64 . At : 2019-05-01 23:55:37
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:56:14
+[INFO] Going Up and Continue Test partition = 0.1562 : 2019-05-01 23:56:14
+[INFO] Currently running class PhaverModelTester with partition 0.1844 : 2019-05-01 23:56:14
+[INFO] class PhaverModelBuilder launched, c = 0.64 . At : 2019-05-01 23:56:14
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:56:20
+[INFO] Going Down and Continue Test partition = 0.1844 : 2019-05-01 23:56:20
+[INFO] Currently running class PhaverModelTester with partition 0.1703 : 2019-05-01 23:56:20
+[INFO] class PhaverModelBuilder launched, c = 0.64 . At : 2019-05-01 23:56:20
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:56:26
+[INFO] Going Down and Continue Test partition = 0.1703 : 2019-05-01 23:56:26
+[INFO] class PhaverModelTester - exec time : 6283ms : 2019-05-01 23:56:26
+[INFO] Currently running class SpaceExModelTester with partition 1.0 : 2019-05-01 23:56:26
+[INFO] class SpaceExModelBuilder launched, c = 0.64 . At : 2019-05-01 23:56:26
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:56:26
+[INFO] Currently running class SpaceExModelTester with partition 0.1 : 2019-05-01 23:56:26
+[INFO] class SpaceExModelBuilder launched, c = 0.64 . At : 2019-05-01 23:56:26
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:56:26
+[INFO] class SpaceExModelTester - exec time : 18ms : 2019-05-01 23:56:26
+--------------------
+[INFO] Testing Start partition = 0.65 : 2019-05-01 23:56:26
+[INFO] Currently running class PhaverModelTester with partition 1.0 : 2019-05-01 23:56:26
+[INFO] class PhaverModelBuilder launched, c = 0.65 . At : 2019-05-01 23:56:26
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:56:27
+[INFO] Currently running class PhaverModelTester with partition 0.1 : 2019-05-01 23:56:27
+[INFO] class PhaverModelBuilder launched, c = 0.65 . At : 2019-05-01 23:56:27
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:57:04
+[INFO] Currently running class PhaverModelTester with partition 0.55 : 2019-05-01 23:57:04
+[INFO] class PhaverModelBuilder launched, c = 0.65 . At : 2019-05-01 23:57:04
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:57:06
+[INFO] Going Down and Continue Test partition = 0.55 : 2019-05-01 23:57:06
+[INFO] Currently running class PhaverModelTester with partition 0.325 : 2019-05-01 23:57:06
+[INFO] class PhaverModelBuilder launched, c = 0.65 . At : 2019-05-01 23:57:06
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:57:08
+[INFO] Going Down and Continue Test partition = 0.325 : 2019-05-01 23:57:08
+[INFO] Currently running class PhaverModelTester with partition 0.2125 : 2019-05-01 23:57:08
+[INFO] class PhaverModelBuilder launched, c = 0.65 . At : 2019-05-01 23:57:08
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:57:15
+[INFO] Going Down and Continue Test partition = 0.2125 : 2019-05-01 23:57:15
+[INFO] Currently running class PhaverModelTester with partition 0.1562 : 2019-05-01 23:57:15
+[INFO] class PhaverModelBuilder launched, c = 0.65 . At : 2019-05-01 23:57:15
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:57:52
+[INFO] Going Up and Continue Test partition = 0.1562 : 2019-05-01 23:57:52
+[INFO] Currently running class PhaverModelTester with partition 0.1844 : 2019-05-01 23:57:52
+[INFO] class PhaverModelBuilder launched, c = 0.65 . At : 2019-05-01 23:57:52
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:57:58
+[INFO] Going Down and Continue Test partition = 0.1844 : 2019-05-01 23:57:58
+[INFO] Currently running class PhaverModelTester with partition 0.1703 : 2019-05-01 23:57:58
+[INFO] class PhaverModelBuilder launched, c = 0.65 . At : 2019-05-01 23:57:58
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:58:05
+[INFO] Going Down and Continue Test partition = 0.1703 : 2019-05-01 23:58:05
+[INFO] class PhaverModelTester - exec time : 6633ms : 2019-05-01 23:58:05
+[INFO] Currently running class SpaceExModelTester with partition 1.0 : 2019-05-01 23:58:05
+[INFO] class SpaceExModelBuilder launched, c = 0.65 . At : 2019-05-01 23:58:05
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:58:05
+[INFO] Currently running class SpaceExModelTester with partition 0.1 : 2019-05-01 23:58:05
+[INFO] class SpaceExModelBuilder launched, c = 0.65 . At : 2019-05-01 23:58:05
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-01 23:58:05
+[INFO] class SpaceExModelTester - exec time : 16ms : 2019-05-01 23:58:05
+--------------------
+[INFO] Testing Start partition = 0.66 : 2019-05-01 23:58:05
+[INFO] Currently running class PhaverModelTester with partition 1.0 : 2019-05-01 23:58:05
+[INFO] class PhaverModelBuilder launched, c = 0.66 . At : 2019-05-01 23:58:05
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:58:06
+[INFO] Currently running class PhaverModelTester with partition 0.1 : 2019-05-01 23:58:06
+[INFO] class PhaverModelBuilder launched, c = 0.66 . At : 2019-05-01 23:58:06
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:58:51
+[INFO] Currently running class PhaverModelTester with partition 0.55 : 2019-05-01 23:58:51
+[INFO] class PhaverModelBuilder launched, c = 0.66 . At : 2019-05-01 23:58:51
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:58:53
+[INFO] Going Down and Continue Test partition = 0.55 : 2019-05-01 23:58:53
+[INFO] Currently running class PhaverModelTester with partition 0.325 : 2019-05-01 23:58:53
+[INFO] class PhaverModelBuilder launched, c = 0.66 . At : 2019-05-01 23:58:53
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:58:55
+[INFO] Going Down and Continue Test partition = 0.325 : 2019-05-01 23:58:55
+[INFO] Currently running class PhaverModelTester with partition 0.2125 : 2019-05-01 23:58:55
+[INFO] class PhaverModelBuilder launched, c = 0.66 . At : 2019-05-01 23:58:55
+[INFO] class PhaverModelBuilder exit. At : 2019-05-01 23:59:02
+[INFO] Going Down and Continue Test partition = 0.2125 : 2019-05-01 23:59:02
+[INFO] Currently running class PhaverModelTester with partition 0.1562 : 2019-05-01 23:59:02
+[INFO] class PhaverModelBuilder launched, c = 0.66 . At : 2019-05-01 23:59:02
+[INFO] class PhaverModelBuilder exit. At : 2019-05-02 00:00:02
+[INFO] Going Up and Continue Test partition = 0.1562 : 2019-05-02 00:00:02
+[INFO] Currently running class PhaverModelTester with partition 0.1844 : 2019-05-02 00:00:02
+[INFO] class PhaverModelBuilder launched, c = 0.66 . At : 2019-05-02 00:00:02
+[INFO] class PhaverModelBuilder exit. At : 2019-05-02 00:00:10
+[INFO] Going Down and Continue Test partition = 0.1844 : 2019-05-02 00:00:10
+[INFO] Currently running class PhaverModelTester with partition 0.1703 : 2019-05-02 00:00:10
+[INFO] class PhaverModelBuilder launched, c = 0.66 . At : 2019-05-02 00:00:10
+[INFO] class PhaverModelBuilder exit. At : 2019-05-02 00:00:16
+[INFO] Going Down and Continue Test partition = 0.1703 : 2019-05-02 00:00:16
+[INFO] class PhaverModelTester - exec time : 6963ms : 2019-05-02 00:00:16
+[INFO] Currently running class SpaceExModelTester with partition 1.0 : 2019-05-02 00:00:16
+[INFO] class SpaceExModelBuilder launched, c = 0.66 . At : 2019-05-02 00:00:16
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-02 00:00:16
+[INFO] Currently running class SpaceExModelTester with partition 0.1 : 2019-05-02 00:00:16
+[INFO] class SpaceExModelBuilder launched, c = 0.66 . At : 2019-05-02 00:00:16
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-02 00:00:17
+[INFO] class SpaceExModelTester - exec time : 18ms : 2019-05-02 00:00:17
+--------------------
+[INFO] Testing Start partition = 0.67 : 2019-05-02 00:00:17
+[INFO] Currently running class PhaverModelTester with partition 1.0 : 2019-05-02 00:00:17
+[INFO] class PhaverModelBuilder launched, c = 0.67 . At : 2019-05-02 00:00:17
+[INFO] class PhaverModelBuilder exit. At : 2019-05-02 00:00:17
+[INFO] Currently running class PhaverModelTester with partition 0.1 : 2019-05-02 00:00:17
+[INFO] class PhaverModelBuilder launched, c = 0.67 . At : 2019-05-02 00:00:17
+[INFO] class PhaverModelBuilder exit. At : 2019-05-02 00:01:02
+[INFO] Currently running class PhaverModelTester with partition 0.55 : 2019-05-02 00:01:02
+[INFO] class PhaverModelBuilder launched, c = 0.67 . At : 2019-05-02 00:01:02
+[INFO] class PhaverModelBuilder exit. At : 2019-05-02 00:01:04
+[INFO] Going Down and Continue Test partition = 0.55 : 2019-05-02 00:01:04
+[INFO] Currently running class PhaverModelTester with partition 0.325 : 2019-05-02 00:01:04
+[INFO] class PhaverModelBuilder launched, c = 0.67 . At : 2019-05-02 00:01:04
+[INFO] class PhaverModelBuilder exit. At : 2019-05-02 00:01:06
+[INFO] Going Down and Continue Test partition = 0.325 : 2019-05-02 00:01:06
+[INFO] Currently running class PhaverModelTester with partition 0.2125 : 2019-05-02 00:01:06
+[INFO] class PhaverModelBuilder launched, c = 0.67 . At : 2019-05-02 00:01:06
+[INFO] class PhaverModelBuilder exit. At : 2019-05-02 00:01:14
+[INFO] Going Down and Continue Test partition = 0.2125 : 2019-05-02 00:01:14
+[INFO] Currently running class PhaverModelTester with partition 0.1562 : 2019-05-02 00:01:14
+[INFO] class PhaverModelBuilder launched, c = 0.67 . At : 2019-05-02 00:01:14
+[INFO] class PhaverModelBuilder exit. At : 2019-05-02 00:01:58
+[INFO] Going Up and Continue Test partition = 0.1562 : 2019-05-02 00:01:58
+[INFO] Currently running class PhaverModelTester with partition 0.1844 : 2019-05-02 00:01:58
+[INFO] class PhaverModelBuilder launched, c = 0.67 . At : 2019-05-02 00:01:58
+[INFO] class PhaverModelBuilder exit. At : 2019-05-02 00:02:06
+[INFO] Going Down and Continue Test partition = 0.1844 : 2019-05-02 00:02:06
+[INFO] Currently running class PhaverModelTester with partition 0.1703 : 2019-05-02 00:02:06
+[INFO] class PhaverModelBuilder launched, c = 0.67 . At : 2019-05-02 00:02:06
+[INFO] class PhaverModelBuilder exit. At : 2019-05-02 00:02:13
+[INFO] Going Down and Continue Test partition = 0.1703 : 2019-05-02 00:02:13
+[INFO] class PhaverModelTester - exec time : 7286ms : 2019-05-02 00:02:13
+[INFO] Currently running class SpaceExModelTester with partition 1.0 : 2019-05-02 00:02:13
+[INFO] class SpaceExModelBuilder launched, c = 0.67 . At : 2019-05-02 00:02:13
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-02 00:02:13
+[INFO] Currently running class SpaceExModelTester with partition 0.1 : 2019-05-02 00:02:13
+[INFO] class SpaceExModelBuilder launched, c = 0.67 . At : 2019-05-02 00:02:13
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-02 00:02:13
+[INFO] class SpaceExModelTester - exec time : 18ms : 2019-05-02 00:02:13
+--------------------
+[INFO] Testing Start partition = 0.68 : 2019-05-02 00:02:13
+[INFO] Currently running class PhaverModelTester with partition 1.0 : 2019-05-02 00:02:13
+[INFO] class PhaverModelBuilder launched, c = 0.68 . At : 2019-05-02 00:02:13
+[INFO] class PhaverModelBuilder exit. At : 2019-05-02 00:02:14
+[INFO] Currently running class PhaverModelTester with partition 0.1 : 2019-05-02 00:02:14
+[INFO] class PhaverModelBuilder launched, c = 0.68 . At : 2019-05-02 00:02:14
+[INFO] class PhaverModelBuilder exit. At : 2019-05-02 00:03:02
+[INFO] Currently running class PhaverModelTester with partition 0.55 : 2019-05-02 00:03:02
+[INFO] class PhaverModelBuilder launched, c = 0.68 . At : 2019-05-02 00:03:02
+[INFO] class PhaverModelBuilder exit. At : 2019-05-02 00:03:04
+[INFO] Going Down and Continue Test partition = 0.55 : 2019-05-02 00:03:04
+[INFO] Currently running class PhaverModelTester with partition 0.325 : 2019-05-02 00:03:04
+[INFO] class PhaverModelBuilder launched, c = 0.68 . At : 2019-05-02 00:03:04
+[INFO] class PhaverModelBuilder exit. At : 2019-05-02 00:03:08
+[INFO] Going Down and Continue Test partition = 0.325 : 2019-05-02 00:03:08
+[INFO] Currently running class PhaverModelTester with partition 0.2125 : 2019-05-02 00:03:08
+[INFO] class PhaverModelBuilder launched, c = 0.68 . At : 2019-05-02 00:03:08
+[INFO] class PhaverModelBuilder exit. At : 2019-05-02 00:03:30
+[INFO] Going Down and Continue Test partition = 0.2125 : 2019-05-02 00:03:30
+[INFO] Currently running class PhaverModelTester with partition 0.1562 : 2019-05-02 00:03:30
+[INFO] class PhaverModelBuilder launched, c = 0.68 . At : 2019-05-02 00:03:30
+[INFO] class PhaverModelBuilder exit. At : 2019-05-02 00:04:18
+[INFO] Going Up and Continue Test partition = 0.1562 : 2019-05-02 00:04:18
+[INFO] Currently running class PhaverModelTester with partition 0.1844 : 2019-05-02 00:04:18
+[INFO] class PhaverModelBuilder launched, c = 0.68 . At : 2019-05-02 00:04:18
+[INFO] class PhaverModelBuilder exit. At : 2019-05-02 00:04:25
+[INFO] Going Down and Continue Test partition = 0.1844 : 2019-05-02 00:04:25
+[INFO] Currently running class PhaverModelTester with partition 0.1703 : 2019-05-02 00:04:25
+[INFO] class PhaverModelBuilder launched, c = 0.68 . At : 2019-05-02 00:04:25
+[INFO] class PhaverModelBuilder exit. At : 2019-05-02 00:04:33
+[INFO] Going Down and Continue Test partition = 0.1703 : 2019-05-02 00:04:33
+[INFO] class PhaverModelTester - exec time : 7488ms : 2019-05-02 00:04:33
+[INFO] Currently running class SpaceExModelTester with partition 1.0 : 2019-05-02 00:04:33
+[INFO] class SpaceExModelBuilder launched, c = 0.68 . At : 2019-05-02 00:04:33
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-02 00:04:33
+[INFO] Currently running class SpaceExModelTester with partition 0.1 : 2019-05-02 00:04:33
+[INFO] class SpaceExModelBuilder launched, c = 0.68 . At : 2019-05-02 00:04:33
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-02 00:04:33
+[INFO] class SpaceExModelTester - exec time : 18ms : 2019-05-02 00:04:33
+--------------------
+[INFO] Testing Start partition = 0.69 : 2019-05-02 00:04:33
+[INFO] Currently running class PhaverModelTester with partition 1.0 : 2019-05-02 00:04:33
+[INFO] class PhaverModelBuilder launched, c = 0.69 . At : 2019-05-02 00:04:33
+[INFO] class PhaverModelBuilder exit. At : 2019-05-02 00:04:34
+[INFO] Currently running class PhaverModelTester with partition 0.1 : 2019-05-02 00:04:34
+[INFO] class PhaverModelBuilder launched, c = 0.69 . At : 2019-05-02 00:04:34
+[INFO] class PhaverModelBuilder exit. At : 2019-05-02 00:05:29
+[INFO] Currently running class PhaverModelTester with partition 0.55 : 2019-05-02 00:05:29
+[INFO] class PhaverModelBuilder launched, c = 0.69 . At : 2019-05-02 00:05:29
+[INFO] class PhaverModelBuilder exit. At : 2019-05-02 00:05:31
+[INFO] Going Down and Continue Test partition = 0.55 : 2019-05-02 00:05:31
+[INFO] Currently running class PhaverModelTester with partition 0.325 : 2019-05-02 00:05:31
+[INFO] class PhaverModelBuilder launched, c = 0.69 . At : 2019-05-02 00:05:31
+[INFO] class PhaverModelBuilder exit. At : 2019-05-02 00:05:34
+[INFO] Going Down and Continue Test partition = 0.325 : 2019-05-02 00:05:34
+[INFO] Currently running class PhaverModelTester with partition 0.2125 : 2019-05-02 00:05:34
+[INFO] class PhaverModelBuilder launched, c = 0.69 . At : 2019-05-02 00:05:34
+[INFO] class PhaverModelBuilder exit. At : 2019-05-02 00:05:41
+[INFO] Going Down and Continue Test partition = 0.2125 : 2019-05-02 00:05:41
+[INFO] Currently running class PhaverModelTester with partition 0.1562 : 2019-05-02 00:05:41
+[INFO] class PhaverModelBuilder launched, c = 0.69 . At : 2019-05-02 00:05:41
+[INFO] class PhaverModelBuilder exit. At : 2019-05-02 00:06:36
+[INFO] Going Up and Continue Test partition = 0.1562 : 2019-05-02 00:06:36
+[INFO] Currently running class PhaverModelTester with partition 0.1844 : 2019-05-02 00:06:36
+[INFO] class PhaverModelBuilder launched, c = 0.69 . At : 2019-05-02 00:06:36
+[INFO] class PhaverModelBuilder exit. At : 2019-05-02 00:06:44
+[INFO] Going Down and Continue Test partition = 0.1844 : 2019-05-02 00:06:44
+[INFO] Currently running class PhaverModelTester with partition 0.1703 : 2019-05-02 00:06:44
+[INFO] class PhaverModelBuilder launched, c = 0.69 . At : 2019-05-02 00:06:44
+[INFO] class PhaverModelBuilder exit. At : 2019-05-02 00:06:51
+[INFO] Going Down and Continue Test partition = 0.1703 : 2019-05-02 00:06:51
+[INFO] class PhaverModelTester - exec time : 7437ms : 2019-05-02 00:06:51
+[INFO] Currently running class SpaceExModelTester with partition 1.0 : 2019-05-02 00:06:51
+[INFO] class SpaceExModelBuilder launched, c = 0.69 . At : 2019-05-02 00:06:51
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-02 00:06:51
+[INFO] Currently running class SpaceExModelTester with partition 0.1 : 2019-05-02 00:06:51
+[INFO] class SpaceExModelBuilder launched, c = 0.69 . At : 2019-05-02 00:06:51
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-02 00:06:51
+[INFO] class SpaceExModelTester - exec time : 26ms : 2019-05-02 00:06:51
+--------------------
+[INFO] Testing Start partition = 0.70 : 2019-05-02 00:06:51
+[INFO] Currently running class PhaverModelTester with partition 1.0 : 2019-05-02 00:06:51
+[INFO] class PhaverModelBuilder launched, c = 0.7 . At : 2019-05-02 00:06:51
+[INFO] class PhaverModelBuilder exit. At : 2019-05-02 00:06:53
+[INFO] Currently running class PhaverModelTester with partition 0.1 : 2019-05-02 00:06:53
+[INFO] class PhaverModelBuilder launched, c = 0.7 . At : 2019-05-02 00:06:53
+[INFO] class PhaverModelBuilder exit. At : 2019-05-02 00:08:01
+[INFO] Currently running class PhaverModelTester with partition 0.55 : 2019-05-02 00:08:01
+[INFO] class PhaverModelBuilder launched, c = 0.7 . At : 2019-05-02 00:08:01
+[INFO] class PhaverModelBuilder exit. At : 2019-05-02 00:08:04
+[INFO] Going Down and Continue Test partition = 0.55 : 2019-05-02 00:08:04
+[INFO] Currently running class PhaverModelTester with partition 0.325 : 2019-05-02 00:08:04
+[INFO] class PhaverModelBuilder launched, c = 0.7 . At : 2019-05-02 00:08:04
+[INFO] class PhaverModelBuilder exit. At : 2019-05-02 00:08:06
+[INFO] Going Down and Continue Test partition = 0.325 : 2019-05-02 00:08:06
+[INFO] Currently running class PhaverModelTester with partition 0.2125 : 2019-05-02 00:08:06
+[INFO] class PhaverModelBuilder launched, c = 0.7 . At : 2019-05-02 00:08:06
+[INFO] class PhaverModelBuilder exit. At : 2019-05-02 00:08:14
+[INFO] Going Down and Continue Test partition = 0.2125 : 2019-05-02 00:08:14
+[INFO] Currently running class PhaverModelTester with partition 0.1562 : 2019-05-02 00:08:14
+[INFO] class PhaverModelBuilder launched, c = 0.7 . At : 2019-05-02 00:08:14
+[INFO] class PhaverModelBuilder exit. At : 2019-05-02 00:09:08
+[INFO] Going Up and Continue Test partition = 0.1562 : 2019-05-02 00:09:08
+[INFO] Currently running class PhaverModelTester with partition 0.1844 : 2019-05-02 00:09:08
+[INFO] class PhaverModelBuilder launched, c = 0.7 . At : 2019-05-02 00:09:08
+[INFO] class PhaverModelBuilder exit. At : 2019-05-02 00:09:16
+[INFO] Going Down and Continue Test partition = 0.1844 : 2019-05-02 00:09:16
+[INFO] Currently running class PhaverModelTester with partition 0.1703 : 2019-05-02 00:09:16
+[INFO] class PhaverModelBuilder launched, c = 0.7 . At : 2019-05-02 00:09:16
+[INFO] class PhaverModelBuilder exit. At : 2019-05-02 00:09:23
+[INFO] Going Down and Continue Test partition = 0.1703 : 2019-05-02 00:09:23
+[INFO] class PhaverModelTester - exec time : 7427ms : 2019-05-02 00:09:23
+[INFO] Currently running class SpaceExModelTester with partition 1.0 : 2019-05-02 00:09:23
+[INFO] class SpaceExModelBuilder launched, c = 0.7 . At : 2019-05-02 00:09:23
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-02 00:09:23
+[INFO] Currently running class SpaceExModelTester with partition 0.1 : 2019-05-02 00:09:23
+[INFO] class SpaceExModelBuilder launched, c = 0.7 . At : 2019-05-02 00:09:23
+[INFO] class SpaceExModelBuilder exit. At : 2019-05-02 00:09:23
+[INFO] class SpaceExModelTester - exec time : 17ms : 2019-05-02 00:09:23
+--------------------
+[INFO] Program exits with running time 2598239ms : 2019-05-02 00:09:23
+]0;zibin@zibin-VirtualBox: ~/Desktop/lab4$ exit
+
+Script done on Thu 02 May 2019 02:02:07 AM EDT
