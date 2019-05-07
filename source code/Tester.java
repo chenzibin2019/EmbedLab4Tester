@@ -1,9 +1,9 @@
 //
-//  Tester.java
-//  EmbedLab4Teseter
+//  Try.java
+//  EmbedLab4Tester
 //
-//  Created by Zibin Chen on 4/27/2019.
-//  Copyright © 2018 Zibin Chen. All rights reserved.
+//  Creater by Zibin Chen on 4/27/2019
+//  Copyright c 2019 Zibin Chen. All rights reserved.
 //
 
 import java.io.*;
@@ -28,6 +28,10 @@ class Constant {
     public static int INIT_SPEED = 2;
     public static String PHAVER_TARGET_STR = "cond_v_excd_105 is reachable.";
     public static double PRECISION = 0.02;
+    public static double PHAVER_LBOUND = 0.1;
+    public static double PHAVER_UBOUND = 1;
+    public static double SPACE_LBOUND = 0.1;
+    public static double SPACE_UBOUND = 1;
 }
 
 class ExecResult {
@@ -222,7 +226,7 @@ abstract class ModelTester {
 
 class SpaceExModelTester extends ModelTester {
     public SpaceExModelTester(SpaceExModelBuilder sp) {
-        super(sp, 0.1, 1);
+        super(sp, Constant.SPACE_LBOUND, Constant.SPACE_UBOUND);
     } 
 
     public boolean reachablity(String res) {
@@ -235,7 +239,7 @@ class SpaceExModelTester extends ModelTester {
 
 class PhaverModelTester extends ModelTester {
     public PhaverModelTester(PhaverModelBuilder ph) {
-        super(ph, 0.1, 1);
+        super(ph, Constant.PHAVER_LBOUND, Constant.PHAVER_UBOUND);
     }
 
     public boolean reachablity(String res) {
@@ -322,19 +326,45 @@ public class Tester {
         PhaverModelBuilder pvModel;
         String csvBuf = "c,time_space_ex,time_phaver\n";
         for(String s:args) {
-            double c = Double.valueOf(s);
-            // create a spaceex model using c
-            System.out.println("--------------------");
-            Utils.print(0, "Testing Start partition = " + s);
-            spModel = new SpaceExModelBuilder(c);
-            sp = new SpaceExModelTester(spModel);
-            pvModel = new PhaverModelBuilder(c, 0.1);
-            pv = new PhaverModelTester(pvModel);
-            long timePv = pv.exec();
-            Utils.print(0, pv.getClass().toString() + " - exec time : " + String.valueOf(timePv) + "ms");
-            long timeSp = sp.exec();
-            Utils.print(0, sp.getClass().toString() + " - exec time : " + String.valueOf(timeSp) + "ms");
-            csvBuf += String.format("%s,%s,%s\n", s, String.valueOf(timeSp), String.valueOf(timePv));
+            try {
+                if(s.indexOf("--space-lower") != -1) {
+                    Constant.SPACE_LBOUND = Utils.formatDecimal(Float.valueOf(s.replaceAll("--space-lower", "")));
+                    Utils.print("NOTICE", "You have set the lower bound of SpaceEx tester to " + Constant.SPACE_LBOUND);
+                    continue;
+                }
+                if(s.indexOf("--space-upper") != -1) {
+                    Constant.SPACE_UBOUND = Utils.formatDecimal(Float.valueOf(s.replaceAll("--space-upper", "")));
+                    Utils.print("NOTICE", "You have set the upper bound of SpaceEx tester to " + Constant.SPACE_UBOUND);
+                    continue;
+                }
+                if(s.indexOf("--phaver-lower") != -1) {
+                    Constant.PHAVER_LBOUND = Utils.formatDecimal(Float.valueOf(s.replaceAll("--phaver-lower", "")));
+                    Utils.print("NOTICE", "You have set the lower bound of Phaver tester to " + Constant.PHAVER_LBOUND);
+                    continue;
+                }
+                if(s.indexOf("--phaver-upper") != -1) {
+                    Constant.PHAVER_UBOUND = Utils.formatDecimal(Float.valueOf(s.replaceAll("--phaver-upper", "")));
+                    Utils.print("NOTICE", "You have set the upper bound of Phaver tester to " + Constant.PHAVER_UBOUND);
+                    continue;
+                }
+                double c = Double.valueOf(s);
+                // create a spaceex model using c
+                System.out.println("--------------------");
+                Utils.print(0, "Testing Start partition = " + s);
+                spModel = new SpaceExModelBuilder(c);
+                sp = new SpaceExModelTester(spModel);
+                pvModel = new PhaverModelBuilder(c, 0.1);
+                pv = new PhaverModelTester(pvModel);
+                long timePv = pv.exec();
+                Utils.print(0, pv.getClass().toString() + " - exec time : " + String.valueOf(timePv) + "ms");
+                long timeSp = sp.exec();
+                Utils.print(0, sp.getClass().toString() + " - exec time : " + String.valueOf(timeSp) + "ms");
+                csvBuf += String.format("%s,%s,%s\n", s, String.valueOf(timeSp), String.valueOf(timePv));
+            }catch(Exception e) {
+                Utils.print(-1, "Exception while parsing command " + s + " :" + e.getMessage().toString() + ", escaped!");
+                continue;
+            }
+            
             //System.out.println("--------------------");
         }
         Utils.writeStringToFile("result.csv", csvBuf);
